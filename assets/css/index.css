@@ -149,7 +149,6 @@ main .hero .right .serv {
     align-items: center;
     justify-content: center;
     text-align: center;
-    padding: 30px 30px;
     display: flex;
     gap: 1rem;
 }
