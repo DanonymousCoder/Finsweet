@@ -142,7 +142,7 @@ main .hero .left .down .words p.s-ead {
 
 main .hero .right {
     background-image: url("/assets/img/Header\ Image.png");
-    width: 900px;
+    width: 1000px;
     height: 700px;
     object-fit: cover;
 }
