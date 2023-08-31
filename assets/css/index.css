@@ -13,3 +13,6 @@
     display: flex;
     justify-content: space-between;
 }
+.links {
+    padding-right: 50px;
+}
