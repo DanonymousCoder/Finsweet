@@ -83,6 +83,7 @@ main .hero {
     align-items: center;
     padding: 15px 10px;
     justify-content: space-between;
+    width: 100%;
 }
 main .hero .left {
     width: 40%;
