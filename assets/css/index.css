@@ -100,3 +100,6 @@ main .hero .left button {
     border-radius: 12px;
     border: none;
 }
+main .hero .right {
+    width: 40%;
+}
