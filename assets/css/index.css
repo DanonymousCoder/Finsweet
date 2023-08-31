@@ -101,6 +101,7 @@ main .hero .left button {
    padding: 16px 40px 16px 40px;
     border-radius: 12px;
     border: none;
+    margin-bottom: 20px;
 }
 main .hero .right  img{
     width: 520px;
