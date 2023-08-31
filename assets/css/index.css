@@ -144,4 +144,5 @@ main .hero .left .down .words p.s-ead {
 
 main .hero .right {
     background-image: url("/assets/img/Header\ Image.png");
+    width: 40%;
 }
