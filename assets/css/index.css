@@ -146,4 +146,5 @@ main .hero .right .serv {
     border-radius: 59px;
     width: 282px;
     height: 102px;
+    align-items: center;
 }
