@@ -121,7 +121,7 @@ main .hero .left .down .text {
     flex-direction: column;
     gap: 0.5rem;
 }
-main .hero .left .down .text p.head {
+main .hero .left .down .text p.ead {
     font-size: 15px;
     font-weight: 500;
     line-height: 24px;
