@@ -147,4 +147,5 @@ main .hero .right .serv {
     width: 282px;
     height: 102px;
     align-items: center;
+    justify-content: center;
 }
