@@ -111,6 +111,7 @@ main .hero .left .down {
 }
 main .hero .left .down img {
     height: 30px;
+    display: flex;
 }
 main .hero .left .down .text p.head {
     font-size: 15px;
