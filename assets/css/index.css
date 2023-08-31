@@ -78,6 +78,7 @@
 }
 main .hero {
     display: flex;
+    gap: 2rem;
 }
 main .hero .left p.head {
     font-size: 64px;
