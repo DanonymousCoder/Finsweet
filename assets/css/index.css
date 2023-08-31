@@ -127,7 +127,7 @@ main .hero .left .down .text p.head {
     line-height: 24px;
     letter-spacing: 0em;
     text-align: left;
-    color: #939191;
+    color: grey;
 }
 main .hero .left .down .text p.sub {
     font-size: 18px;
