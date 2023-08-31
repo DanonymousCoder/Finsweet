@@ -109,10 +109,7 @@ main .hero .left button {
     border: none;
     margin-bottom: 60px;
 }
-main .hero .right  img{
-    width: 700px;
-    height: 650px;
-}
+
 main .hero .left .down {
     display: flex;
     align-items: center;
