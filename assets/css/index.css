@@ -39,7 +39,7 @@
 }
 .header nav .links .help {
     display: flex;
-    gap: 0.4rem;
+    gap: 1rem;
     width: 200px;
 }
 .header nav .links .help p.head {
