@@ -50,6 +50,9 @@
    line-height: 24px;
    color:#1E1B1B;
 }
+p.sub {
+    font-weight: 600;
+}
 .header nav .links .help img{
     height: 40px;
     padding-top: 10px;
