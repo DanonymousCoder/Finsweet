@@ -88,6 +88,7 @@ main .hero {
 }
 main .hero .left {
     width: 30%;
+    border: 3px solid blue;
 }
 main .hero .left p.head {
     font-size: 57px;
