@@ -117,9 +117,10 @@ main .hero .left .down .text p.head {
     color: #939191;
 }
 main .hero .left .down .text p.sub {
-font-size: 18px;
-font-weight: 600;
-line-height: 32px;
-letter-spacing: 0em;
-text-align: left;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 32px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: black;
 }
