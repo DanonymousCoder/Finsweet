@@ -1,2 +1,7 @@
 @import url("./font.css");
 @import url("./icon.css");
+*{
+    margin: o;
+    padding: 0;
+    box-sizing: border-box;
+}
