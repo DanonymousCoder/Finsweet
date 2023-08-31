@@ -159,7 +159,10 @@ main .hero .right .serv .inner {
     padding: 20px;
     color: white;
 }
-main .hero .right .serv .inner span {
+main .hero .right .serv .inner p {
+
+}
+main .hero .right .serv .inner p span {
     font-weight: 600;
     font-size: 24px;
     line-height: 36px;
