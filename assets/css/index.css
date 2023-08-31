@@ -43,7 +43,7 @@
 .header nav .links .help .txt {
     display: flex;
     flex-direction: column;
-    align-items: center;
+    justify-content: center;
 }
 .header nav .links .line{
     width: 1px;
