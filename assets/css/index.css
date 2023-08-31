@@ -170,3 +170,10 @@ main .hero .right .serv .inner p span {
     line-height: 36px;
     letter-spacing: -3%;
 }
+main .hero .right .serv .qui {
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 36px;
+    letter-spacing: -0.03em;
+    text-align: left;
+}
