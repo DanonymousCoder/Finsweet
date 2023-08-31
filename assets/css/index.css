@@ -76,6 +76,9 @@
     display: flex;
     align-self: center;
 }
+main .hero {
+    display: flex;
+}
 main .hero .left p.head {
     font-size: 64px;
     font-weight: 800;
