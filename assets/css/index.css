@@ -40,7 +40,7 @@
 .header nav .links .help {
     display: flex;
     gap: 1rem;
-    width: 200px;
+    
 }
 .header nav .links .help p.head {
    font-size: 18px;
@@ -57,7 +57,7 @@
     color: #1E1B1B;
 }
 .header nav .links .help img{
-    height: 50px;
+    height: 60px;
     padding-top: 10px;
     margin-top: 6px;
 }
