@@ -39,6 +39,8 @@
 }
 .header nav .links .help p.head {
    font-size: 18px;
+   justify-content: center;
+   align-items: center;
 }
 .header nav .links .help img{
     height: 40px;
