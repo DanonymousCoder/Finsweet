@@ -37,8 +37,8 @@
     gap: 0.5rem;
 }
 .header nav .links .help .line{
-    width: 42px;
-    height: 1px;
+    width: 1px;
+    height: 42px;
     background-color: #939191;
     border: 1px solid \#93919;
 }
