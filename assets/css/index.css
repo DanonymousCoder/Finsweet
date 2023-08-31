@@ -146,4 +146,5 @@ main .hero .right {
     background-image: url("/assets/img/Header\ Image.png");
     width: 900px;
     height: 700px;
+    object-fit: cover;
 }
