@@ -142,5 +142,6 @@ main .hero .right .serv {
     background-color: white;
     position: absolute;
     top: 200px;
+    left: 730px;
     border-radius: 15px;
 }
