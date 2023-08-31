@@ -77,14 +77,11 @@
     align-self: center;
 }
 main .hero .left p.head {
-    //styleName: Heading (h1);
-font-family: Manrope;
-font-size: 64px;
-font-weight: 800;
-line-height: 84px;
-letter-spacing: -0.03em;
-text-align: left;
-
+    font-size: 64px;
+    font-weight: 800;
+    line-height: 84px;
+    letter-spacing: -0.03em;
+    text-align: left;
 }
 main .hero .left button {
     font-size: 18px;
