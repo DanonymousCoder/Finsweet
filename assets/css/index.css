@@ -105,7 +105,6 @@ main .hero .left button {
 }
 main .hero .right  img{
     width: 550px;
-    position: relative;
 }
 main .hero .left .down {
     display: flex;
