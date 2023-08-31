@@ -80,11 +80,8 @@ main {
 }
 main .hero {
     display: flex;
-    gap: 2rem;
     align-items: center;
     padding: 15px 10px;
-    justify-content: space-between;
-    width: 100%;
 }
 main .hero .left {
     width: 30%;
@@ -98,9 +95,7 @@ main .hero .left p.head {
     text-align: left;
     margin-bottom: 20px;
 }
-main .hero .right {
-   width: 40%;
-}
+
 main .hero .left button {
     font-size: 18px;
     font-weight: 600;
@@ -149,4 +144,7 @@ main .hero .left .down .words p.s-ead {
 main .hero .right img {
     border: 3px solid brown;
     width: 100%;
+}
+main .hero .right {
+
 }
