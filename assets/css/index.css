@@ -29,13 +29,13 @@
 }
 .header nav .links ul li {
     list-style-type: none;
+}
+.header nav .links ul li a {
+    text-decoration: none;
     font-size: 16px;
     line-height: 28px;
     font-weight: 600;
     color: #1E1B1B;
-}
-.header nav .links ul li a {
-    text-decoration: none;
 }
 .header nav .links .help {
     display: flex;
