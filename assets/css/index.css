@@ -43,6 +43,7 @@
 }
 .header nav .links .help img{
     height: 40px;
+    padding-top: 10px;
 }
 .header nav .links .help .txt {
     display: flex;
