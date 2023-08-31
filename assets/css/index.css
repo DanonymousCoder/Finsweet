@@ -148,4 +148,5 @@ main .hero .left .down .words p.s-ead {
 }
 main .hero .right img {
     border: 3px solid brown;
+    width: 100%;
 }
