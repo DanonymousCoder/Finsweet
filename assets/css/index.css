@@ -43,6 +43,7 @@
 .header nav .links .line{
     width: 1px;
     height: 42px;
+    margin: 10px 30px;
     background-color: #939191;
     border: 1px solid \#93919;
 }
