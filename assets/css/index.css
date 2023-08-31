@@ -15,6 +15,7 @@
 }
 .header nav .links {
     padding-right: 80px;
+    display: flex;
 }
 .header nav .links ul {
     display: flex;
