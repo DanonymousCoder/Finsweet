@@ -84,7 +84,9 @@ main .hero {
     padding: 15px 10px;
     justify-content: space-between;
 }
-
+main .hero .left {
+    width: 40%;
+}
 main .hero .left p.head {
     font-size: 57px;
     font-weight: 800;
