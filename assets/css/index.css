@@ -76,6 +76,9 @@
     display: flex;
     align-self: center;
 }
+main {
+    margin-top: 30px;
+}
 main .hero {
     display: flex;
     gap: 2rem;
