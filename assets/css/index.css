@@ -116,7 +116,7 @@ main .hero .left .down img {
     display: flex;
     align-items: center;
 }
-main .hero .left .down .text {
+main .hero .left .down .words {
     display: flex;
     flex-direction: column;
     gap: 0.5rem;
@@ -129,7 +129,7 @@ main .hero .left .down .text p.ead {
     text-align: left;
     color: grey;
 }
-main .hero .left .down .text p.sub {
+main .hero .left .down .text p.s-ead {
     font-size: 18px;
     font-weight: 600;
     line-height: 32px;
