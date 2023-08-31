@@ -108,3 +108,10 @@ main .hero .right  img{
 main .hero .left .down {
     display: flex;
 }
+main .hero .left .down .text p.head {
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+}
