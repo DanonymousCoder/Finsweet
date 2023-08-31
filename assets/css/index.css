@@ -82,6 +82,7 @@ main .hero {
     gap: 2rem;
     align-items: center;
     padding: 15px 10px;
+    justify-content: space-between;
 }
 
 main .hero .left p.head {
