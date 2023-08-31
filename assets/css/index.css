@@ -40,6 +40,10 @@
 .header nav .links .help p.head {
    font-size: 18px;
 }
+.header nav .links .help .txt {
+    text-align: center;
+    align-items: center;
+}
 .header nav .links .line{
     width: 1px;
     height: 42px;
