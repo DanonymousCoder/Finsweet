@@ -38,7 +38,7 @@
 }
 .header nav .links .help .line{
     width: 42px;
-    height: 0px;
+    height: 1px;
     background-color: #939191;
     rotate: -90;
     border: 1px solid \#93919;
