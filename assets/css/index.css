@@ -166,6 +166,7 @@ main .hero .right .serv .inner p {
     display: flex;
     text-align: center;
     align-items: center;
+    gap: 0.2rem;
 }
 main .hero .right .serv .inner p span {
     font-weight: 600;
