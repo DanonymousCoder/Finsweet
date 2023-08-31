@@ -7,7 +7,7 @@
 }
 .header {
     background-color: white;
-    padding-left: 150px;
+    padding-left: 180px;
 }
 .header nav {
     display: flex;
@@ -34,7 +34,7 @@
 }
 .header nav .links .help {
     display: flex;
-    gap: 1rem;
+    gap: 0.5rem;
 }
 .header nav .links .line{
     width: 1px;
