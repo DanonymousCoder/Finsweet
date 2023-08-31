@@ -93,7 +93,8 @@ main .hero .left p.head {
     margin-bottom: 20px;
 }
 main .hero .right {
-    margin-left: 100px;
+    align-self: flex-end;
+    display: flex;
 }
 main .hero .left button {
     font-size: 18px;
