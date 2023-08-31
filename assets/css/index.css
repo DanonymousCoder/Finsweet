@@ -37,7 +37,7 @@
     gap: 0.5rem;
 }
 .header nav .links .help p.head {
-    display: inline-block;
+   font-size: 18px;
 }
 .header nav .links .line{
     width: 1px;
