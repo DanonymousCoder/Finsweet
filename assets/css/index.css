@@ -165,6 +165,7 @@ main .hero .right .serv .inner p {
     line-height: 28px;
     display: flex;
     text-align: center;
+    align-items: center;
 }
 main .hero .right .serv .inner p span {
     font-weight: 600;
