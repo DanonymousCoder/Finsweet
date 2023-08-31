@@ -150,6 +150,7 @@ main .hero .right .serv {
     justify-content: center;
     text-align: center;
     padding: 30px 30px;
+    display: flex;
 }
 main .hero .right .serv .inner {
     background-color: #5CBA99;
