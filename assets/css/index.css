@@ -92,4 +92,5 @@ main .hero .left button {
     color: #ffffff;
    background-color:  #FF6433;
    padding: 16px 40px 16px 40px;
+    border-radius: 12px;
 }
