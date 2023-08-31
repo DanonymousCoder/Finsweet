@@ -36,6 +36,9 @@
     display: flex;
     gap: 0.5rem;
 }
+.header nav .links .help p.head {
+    display: inline-block;
+}
 .header nav .links .line{
     width: 1px;
     height: 42px;
