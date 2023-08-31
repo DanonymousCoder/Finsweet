@@ -109,6 +109,9 @@ main .hero .right  img{
 main .hero .left .down {
     display: flex;
 }
+main .hero .left .down img {
+    height: 30px;
+}
 main .hero .left .down .text p.head {
     font-size: 15px;
     font-weight: 500;
