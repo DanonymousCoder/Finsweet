@@ -8,8 +8,8 @@
 }
 .header {
     background-color: white;
-    padding-left: 60px;
-    padding-right: 60px;
+    padding-left: 50px;
+    padding-right: 50px;
 }
 .header nav {
     display: flex;
