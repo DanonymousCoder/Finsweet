@@ -9,6 +9,7 @@
 .header {
     background-color: white;
     padding-left: 120px;
+    padding-right: 120px;
 }
 .header nav {
     display: flex;
@@ -17,7 +18,6 @@
     padding: 10px;
 }
 .header nav .links {
-    padding-right: 120px;
     display: flex;
     gap: 0.5rem;
 }
