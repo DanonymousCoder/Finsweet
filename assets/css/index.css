@@ -23,6 +23,7 @@
 .header nav .links ul {
     display: flex;
     gap: 2rem;
+    text-align: center;
 }
 .header nav .links ul li {
     list-style-type: none;
