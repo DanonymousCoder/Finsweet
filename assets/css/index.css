@@ -19,7 +19,7 @@
 .header nav .links {
     padding-right: 150px;
     display: flex;
-    gap: 1rem;
+    gap: 0.5rem;
 }
 .header nav .links ul {
     display: flex;
