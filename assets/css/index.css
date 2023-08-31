@@ -23,6 +23,7 @@
 .header nav .links ul {
     display: flex;
     gap: 2rem;
+    align-items: center;
     text-align: center;
 }
 .header nav .links ul li {
@@ -33,4 +34,5 @@
 }
 .header nav .links .help {
     display: flex;
+    gap: 0.5rem;
 }
