@@ -91,4 +91,5 @@ main .hero .left button {
     text-align: left;
     color: #ffffff;
    background-color:  #FF6433;
+   padding: 16px 40px 16px 40px;
 }
