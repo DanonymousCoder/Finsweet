@@ -82,6 +82,9 @@ main .hero {
     gap: 2rem;
     align-items: center;
 }
+main .hero .left {
+    margin-right: 100px;
+}
 main .hero .left p.head {
     font-size: 57px;
     font-weight: 800;
