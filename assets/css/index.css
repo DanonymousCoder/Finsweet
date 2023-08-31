@@ -155,4 +155,5 @@ main .hero .right .serv {
 main .hero .right .serv .inner {
     background-color: #5CBA99;
     border-radius: 50%;
+    padding: 20px;
 }
