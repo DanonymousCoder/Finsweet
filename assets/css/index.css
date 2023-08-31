@@ -27,6 +27,7 @@
     align-items: center;
     text-align: center;
     font-size: 16px;
+    line-height: 28px;
 }
 .header nav .links ul li {
     list-style-type: none;
