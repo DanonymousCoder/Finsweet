@@ -139,7 +139,7 @@ main .hero .left .down .words p.s-ead {
     color: black;
 }
 main .hero .right .serv {
-    background-color: white;
+    background-color: red;
     position: absolute;
-    top: 0;
+    top: 150px;
 }
