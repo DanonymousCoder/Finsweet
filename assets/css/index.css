@@ -80,6 +80,7 @@ main {
 main .hero {
     display: flex;
     gap: 2rem;
+    align-items: center;
 }
 main .hero .left p.head {
     font-size: 60px;
