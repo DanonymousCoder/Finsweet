@@ -13,6 +13,6 @@
     display: flex;
     justify-content: space-between;
 }
-.links {
+,.header nav .links {
     padding-right: 80px;
 }
