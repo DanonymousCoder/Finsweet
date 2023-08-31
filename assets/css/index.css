@@ -112,7 +112,7 @@ main .hero .left .down {
 main .hero .left .down img {
     height: 20px;
     display: flex;
-    text-align: center;
+    align-items: center;
 }
 main .hero .left .down .text {
     display: flex;
