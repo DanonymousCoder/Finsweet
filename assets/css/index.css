@@ -114,6 +114,10 @@ main .hero .left .down img {
     display: flex;
     text-align: center;
 }
+main .hero .left .down .text {
+    display: flex;
+    flex-direction: column;
+}
 main .hero .left .down .text p.head {
     font-size: 15px;
     font-weight: 500;
