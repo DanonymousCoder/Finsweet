@@ -36,7 +36,7 @@
     display: flex;
     gap: 1rem;
 }
-.header nav .links .help .line{
+.header nav .links .line{
     width: 1px;
     height: 42px;
     background-color: #939191;
