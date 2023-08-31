@@ -35,6 +35,7 @@
 .header nav .links .help {
     display: flex;
     gap: 0.5rem;
+    width: 70px;
 }
 .header nav .links .help p.head {
    font-size: 18px;
