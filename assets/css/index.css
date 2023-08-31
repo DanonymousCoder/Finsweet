@@ -109,7 +109,7 @@ main .hero .right  img{
 main .hero .left .down {
     display: flex;
     align-items: center;
-    gap: 0.2rem;
+    gap: 5px;
 }
 main .hero .left .down img {
     height: 30px;
