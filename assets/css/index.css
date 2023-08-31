@@ -162,4 +162,6 @@ main .hero .right .serv .inner {
 main .hero .right .serv .inner span {
     font-weight: 600;
     font-size: 24px;
+    line-height: 36px;
+    letter: -3%;
 }
