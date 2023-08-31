@@ -7,6 +7,7 @@
 }
 .header {
     background-color: white;
+    padding-left: 150px;
 }
 .header nav {
     display: flex;
