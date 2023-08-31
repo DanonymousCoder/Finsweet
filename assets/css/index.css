@@ -17,7 +17,7 @@
     padding: 10px;
 }
 .header nav .links {
-    padding-right: 70px;
+    padding-right: 150px;
     display: flex;
     gap: 1rem;
 }
