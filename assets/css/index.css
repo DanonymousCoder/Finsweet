@@ -40,6 +40,9 @@
 .header nav .links .help p.head {
    font-size: 18px;
 }
+.header nav .links .help {
+    height: 40px;
+}
 .header nav .links .help .txt {
     display: flex;
     flex-direction: column;
