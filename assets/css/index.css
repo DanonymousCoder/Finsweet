@@ -119,7 +119,7 @@ main .hero .left .down img {
 main .hero .left .down .words {
     display: flex;
     flex-direction: column;
-    gap: 5px;
+    gap: 1px;
 }
 main .hero .left .down .words p.ead {
     font-size: 15px;
