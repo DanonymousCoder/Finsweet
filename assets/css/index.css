@@ -80,7 +80,6 @@ main {
 main .hero {
     display: flex;
     align-items: center;
-    padding: 15px 10px;
 }
 main .hero .left {
     width: 600px;
