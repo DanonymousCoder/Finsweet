@@ -24,6 +24,9 @@
     display: flex;
     gap: 2rem;
 }
+.header nav .links ul li {
+    list-style-type: none;
+}
 .header nav .links ul li a {
     text-decoration: none;
 }
