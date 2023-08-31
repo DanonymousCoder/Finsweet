@@ -45,6 +45,7 @@
 .header nav .links .help p.head {
    font-size: 18px;
    align-items: center;
+   font-weight: 500;
 }
 .header nav .links .help img{
     height: 40px;
