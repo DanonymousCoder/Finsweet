@@ -13,6 +13,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
+    min-height: 50px;
 }
 .header nav .links {
     padding-right: 80px;
