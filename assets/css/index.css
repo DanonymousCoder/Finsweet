@@ -50,6 +50,7 @@
     display: flex;
     flex-direction: column;
     justify-content: center;
+    gap: 0.7rem;
 }
 .header nav .links .line{
     width: 1px;
