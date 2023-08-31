@@ -57,7 +57,6 @@
     color: #1E1B1B;
 }
 .header nav .links .help img{
-    height: 50px;
     display: flex; 
     align-self: center;
 }
