@@ -36,3 +36,7 @@
     display: flex;
     gap: 0.5rem;
 }
+.header nav .links .help {
+    width: 0px;
+    height: 42px;
+}
