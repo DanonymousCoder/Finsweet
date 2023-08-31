@@ -151,7 +151,7 @@ main .hero .right .serv {
     text-align: center;
     display: flex;
     gap: 1rem;
-    box-shadow: 10px  solid #E1E1E1;
+    border: 12px  solid #e1e1e15d;
 }
 main .hero .right .serv .inner {
     background-color: #5CBA99;
