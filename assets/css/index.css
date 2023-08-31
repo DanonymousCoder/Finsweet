@@ -24,6 +24,9 @@
     display: flex;
     gap: 2rem;
 }
+.header nav .links ul a {
+    text-decoration: none;
+}
 .header nav .links .help {
     display: flex;
 }
