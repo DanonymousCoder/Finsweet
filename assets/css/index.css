@@ -71,6 +71,8 @@
     width: 1px;
     height: 42px;
     margin: 10px 30px;
-    background-color: #939191;
-    border: 1px solid \#93919;
+    background-color: #9391919f;
+    border: 0px solid \#93919;
+    display: flex;
+    align-self: center;
 }
