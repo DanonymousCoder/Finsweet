@@ -8,3 +8,6 @@
 .header {
     background-color: white;
 }
+.header nav {
+    display: flex;
+}
