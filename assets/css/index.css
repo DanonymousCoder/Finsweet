@@ -138,18 +138,4 @@ main .hero .left .down .words p.s-ead {
     text-align: left;
     color: black;
 }
-main .hero .right .serv {
-    background-color: white;
-    position: absolute;
-    top: 200px;
-    left: 670px;
-    border-radius: 59px;
-    width: 292px;
-    height: 102px;
-    align-items: center;
-    justify-content: center;
-    text-align: center;
-    display: flex;
-    gap: 1rem;
-    border: 12px solid #E1E1E16E
-}
+
