@@ -82,7 +82,7 @@ main .hero {
     gap: 2rem;
 }
 main .hero .left p.head {
-    font-size: 64px;
+    font-size: 60px;
     font-weight: 800;
     line-height: 84px;
     letter-spacing: -0.03em;
