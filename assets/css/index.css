@@ -21,3 +21,6 @@
     display: flex;
     gap: 2rem;
 }
+.header nav .links .help {
+    display: flex;
+}
