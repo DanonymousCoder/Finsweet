@@ -404,7 +404,7 @@ main .hero .right {
     height: 206px;
     background-color: white;
     text-align: center;
-    align-items: center;
+    justify-content: center;
 }
 .offers .offs .off-box2 {
     width: 270px;
