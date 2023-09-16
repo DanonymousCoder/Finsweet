@@ -261,6 +261,8 @@ main .hero .right {
     display: flex;
     width: 100%;
     gap: 5rem;
+    padding-left: 60px;
+    padding-top: 90px;
 }
 .clear-process .left {
     width: 40%;
