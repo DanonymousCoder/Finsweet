@@ -151,4 +151,5 @@ main .hero .right {
     width: 100%;
     height: 594px;
     display: flex;
+    padding-left: 60px;
 }
