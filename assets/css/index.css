@@ -145,10 +145,11 @@ main .hero .left .down .words p.s-ead {
 }
 header main .hero .right {
     position: relative;
+    width: 40%;
 }
 header main .hero .right img {
     position: absolute;
-    right: -20%;
+    right: 0%;
     bottom: 0;
 }
 
