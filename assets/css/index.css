@@ -154,6 +154,12 @@ main .hero .right {
     padding-left: 60px;
     padding-top: 70px;
 }
+.serious .left {
+    width: 584px;
+    height: 638px
+
+
+}
 .serious .left h2 {
     font-family: "Manrope", sans-serif;
     font-size: 58px;
