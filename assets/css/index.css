@@ -173,6 +173,16 @@ main .hero .right {
     padding: 10px 0;
     gap: 0.5rem;
 }
+.serious .left .hd {
+
+font-family: Manrope;
+font-size: 24px;
+font-weight: 600;
+line-height: 36px;
+letter-spacing: -0.03em;
+text-align: left;
+
+}
 .serious .right h3 {
     font-family: "Manrope", sans-serif;
     font-size: 48px;
