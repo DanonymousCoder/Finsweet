@@ -214,7 +214,7 @@ main .hero .right {
     padding-left: 60px;
     margin-top: 70px;
 }
-.serious .know-arrow {
+.serious .know-arrow p.know{
     font-family: Manrope;
     font-size: 18px;
     font-weight: 600;
