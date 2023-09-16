@@ -166,6 +166,7 @@ main .hero .right {
     text-align: left;
     width: 583px;
     height: 152px;
+    margin-bottom: 20px;
 }
 .hd {
     display: flex;
