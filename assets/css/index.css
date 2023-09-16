@@ -354,6 +354,7 @@ main .hero .right {
     padding-top: 90px;
     background-color: #F2F2F2;
     margin-top: 70px;
+    position: relative;
 }
 .offers p.lt {
     font-family: "Manrope", sans-serif;
