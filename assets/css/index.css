@@ -488,13 +488,13 @@ header main .hero .right img {
     flex-direction: column;
 }
 .get-in-touch .cta h3 {
-    font-size: 25px;
+    font-size: 35px;
     font-weight: 800;
     line-height: 67px;
     letter-spacing: -0.03em;
     text-align: left;
     color: white;
-    width: 329px;
+    width: 339px;
     height: 134px;
 }
 .cta-btn {
