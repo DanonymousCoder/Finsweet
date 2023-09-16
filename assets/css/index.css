@@ -226,7 +226,7 @@ main .hero .right {
     text-align: left;
     color: #1E1B1B;
 }
-.serious .right .get-quote form a.quote {
+.serious .right .get-quote form quote {
     width: 208px;
     height: 64px;
     top: 1556px;
