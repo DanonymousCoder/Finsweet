@@ -263,3 +263,8 @@ main .hero .right {
 .clear-process .zero {
     display: flex;
 }
+.clear-process .zero .img {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
