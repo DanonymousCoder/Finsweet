@@ -84,9 +84,10 @@ main {
 main .hero {
     display: flex;
     align-items: center;
+    gap: 5rem;
 }
 main .hero .left {
-    width: 40%;
+    width: 50%;
 }
 main .hero .left p.head {
     font-size: 50px;
