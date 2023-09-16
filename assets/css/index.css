@@ -447,7 +447,7 @@ main .hero .right {
     gap: 0.5rem;
     align-items: center;
     position: absolute;
-    right: 110px;
+    right: 100px;
     top: 870px;
 }
 .learn-at-serve {
