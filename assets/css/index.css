@@ -500,6 +500,8 @@ header main .hero .right img {
 .cta-btn {
     margin-top: 10px;
     border: 3px solid yellow;
+    width: 100%;
+    padding-left: 50px;
 }
 .cta-btn .btn {
     width: 177px;
