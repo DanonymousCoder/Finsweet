@@ -514,4 +514,6 @@ header main .hero .right img {
     text-align: left;
     text-decoration: none;
     color: white;
+    display: flex;
+    align-self: flex-start;
 }
