@@ -145,3 +145,8 @@ main .hero .right {
     height: 700px;
     object-fit: cover;
 }
+
+.serious {
+    background-colour: #E2E6E9;
+
+}
