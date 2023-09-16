@@ -6,6 +6,11 @@
     box-sizing: border-box;
     font-family: "Manrope", sans-serif;
 }
+body {
+    margin: 0; /* Add this to remove the default margin */
+    overflow-x: hidden; /* This will hide horizontal overflow */
+}
+
 .container {
     width: 100vw;
     margin: 0;
