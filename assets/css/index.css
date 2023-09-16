@@ -165,5 +165,10 @@ main .hero .right {
     height: 152px;
 }
 .serious .right h3 {
-
+    font-family: Manrope;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 67px;
+    letter-spacing: -0.03em;
+    text-align: left;
 }
