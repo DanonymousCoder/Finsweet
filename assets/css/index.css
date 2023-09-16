@@ -347,6 +347,7 @@ main .hero .right {
 
 .offers {
     display: flex;
+    flex-direction: column;
     width: 100%;
     padding-left: 60px;
     padding-top: 90px;
