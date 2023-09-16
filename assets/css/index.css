@@ -239,6 +239,7 @@ main .hero .right {
     font-weight: 600;
     font-size: 18px;
     line-height: 31.5px;
+    word-spacing: 0.1rem;
 }
 .serious .know-arrow {
     display: flex;
