@@ -263,6 +263,7 @@ main .hero .right {
     gap: 5rem;
     padding-left: 60px;
     padding-top: 90px;
+    align-items: center;
 }
 .clear-process .left {
     width: 40%;
