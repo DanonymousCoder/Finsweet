@@ -384,3 +384,6 @@ main .hero .right {
     display: flex;
     flex-direction: column;
 }
+.offers .offs .offer-box1 {
+    display: flex;
+}
