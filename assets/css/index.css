@@ -410,6 +410,7 @@ main .hero .right {
     width: 270px;
     height: 206px;
     background-color: #FF6433;
+    position: relative;
 }
 .offers .offs .off-box2 img {
     position: absolute;
