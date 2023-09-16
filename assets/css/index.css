@@ -211,4 +211,5 @@ main .hero .right {
     display: flex;
     align-items: center;
     gap: 0.5rem;
+    padding-left: 60px;
 }
