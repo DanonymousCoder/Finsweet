@@ -550,4 +550,6 @@ header main .hero .right img {
     letter-spacing: -0.03em;
     text-align: left;
     opacity: 70%;
+    width: 245px;
+    height: 36px;
 }
