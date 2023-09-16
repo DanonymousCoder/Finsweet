@@ -232,6 +232,7 @@ main .hero .right {
 .serious .right .get-quote form a.quote {
     padding: 16px 40px;
     background-color: #FF6433;
+    border-radius: 12px;
 }
 .serious .know-arrow {
     display: flex;
