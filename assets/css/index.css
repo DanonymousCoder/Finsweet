@@ -226,8 +226,10 @@ main .hero .right {
     text-align: left;
     color: #1E1B1B;
 }
+.serious .right .get-quote form .post-btn {
+    margin-top: 20px;
+}
 .serious .right .get-quote form a.quote {
-    margin-top: 120px;
     padding: 16px 40px;
     background-color: #FF6433;
 }
