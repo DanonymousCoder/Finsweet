@@ -211,7 +211,10 @@ main .hero .right {
     margin-bottom: 30px;
 }
 .serious .right .get-quote form input {
-    
+    width: 624px;
+    height: 72px;
+    top: 1224px;
+    left: 976px;
 }
 .serious .know-arrow {
     display: flex;
