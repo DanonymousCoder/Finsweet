@@ -353,7 +353,7 @@ main .hero .right {
     padding-top: 90px;
     background-color: #F2F2F2;
     margin-top: 70px;
-    position: relative;
+    position: absolute;
 }
 .offers p.lt {
     font-family: "Manrope", sans-serif;
@@ -418,6 +418,6 @@ main .hero .right {
     display: flex;
     gap: 0.5rem;
     align-items: center;
-    position: absolute;
-    left: 0;
+    position: relative;
+    right: 0;
 }
