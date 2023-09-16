@@ -7,7 +7,7 @@
     font-family: "Manrope", sans-serif;
 }
 .container {
-    width: 100%;
+    width: 100vw;
     margin: 0;
     padding: 0;
 }
