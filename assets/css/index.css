@@ -227,13 +227,7 @@ main .hero .right {
     color: #1E1B1B;
 }
 .serious .right .get-quote form a.quote {
-    width: 308px;
     height: 74px;
-    padding: 16px, 40px, 16px, 40px;
-    border-radius: 12px;
-    gap: 10px;
-    background-color: #FF6433;
-    text-decoration: none;
 }
 .serious .know-arrow {
     display: flex;
