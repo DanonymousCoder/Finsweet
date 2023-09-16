@@ -525,6 +525,7 @@ header main .hero .right img {
     background-color: #F2F2F2;
     width: 100%;
     height: 210px;
+    display: flex;
 }
 .stats .prof .hd {
     font-size: 58px;
