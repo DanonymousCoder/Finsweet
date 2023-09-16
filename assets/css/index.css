@@ -233,6 +233,7 @@ main .hero .right {
     padding: 16px 40px;
     background-color: #FF6433;
     border-radius: 12px;
+    color: white;
 }
 .serious .know-arrow {
     display: flex;
