@@ -499,6 +499,7 @@ header main .hero .right img {
 }
 .cta-btn {
     margin-top: 10px;
+    border: 3px solid yellow;
 }
 .cta-btn .btn {
     width: 177px;
@@ -517,6 +518,4 @@ header main .hero .right img {
     text-align: left;
     text-decoration: none;
     color: white;
-    display: flex;
-    align-self: flex-start;
 }
