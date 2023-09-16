@@ -334,6 +334,7 @@ main .hero .right {
     width: 336px;
     height: 96px;
     opacity: 60%;
+    padding-top: 20px;
 
 }
 .clear-process .zero .img {
