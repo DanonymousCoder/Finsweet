@@ -196,7 +196,7 @@ main .hero .right {
     color: #1E1B1B;
     width: 322px;
     height: 56px;
-    opacity: 0.6px;
+    opacity: 60%;
 }
 .serious .right h3 {
     font-family: "Manrope", sans-serif;
