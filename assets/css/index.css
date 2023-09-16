@@ -410,8 +410,6 @@ main .hero .right {
     width: 270px;
     height: 206px;
     background-color: #FF6433;
-    align-items: center;
-    justify-content: center;
 }
 .offers .offs .off-box2 img {
     align-self: center;
