@@ -256,3 +256,7 @@ main .hero .right {
     letter-spacing: 0em;
     text-align: left;
 }
+
+.clear-process {
+    display: flex;
+}
