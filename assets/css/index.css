@@ -353,7 +353,7 @@ main .hero .right {
     padding-top: 90px;
 }
 .offers p.lt {
-    font-family: Manrope;
+    font-family: "Manrope", sans-serif;
     font-size: 24px;
     font-weight: 600;
     line-height: 36px;
