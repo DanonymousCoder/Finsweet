@@ -353,7 +353,7 @@ header main .hero .right {
 .offers {
     display: flex;
     flex-direction: column;
-    width: 100%;
+    width: 100vw;
     height: 972px;
     padding-left: 60px;
     padding-top: 90px;
