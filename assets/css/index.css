@@ -414,8 +414,8 @@ main .hero .right {
 }
 .offers .offs .off-box2 img {
     position: absolute;
-    top: 0px;
-    left: 0px;
+    top: 70px;
+    left: 100px;
 }
 .serve-arr {
     display: flex;
