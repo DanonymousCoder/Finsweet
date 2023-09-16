@@ -278,7 +278,7 @@ main .hero .right {
     color: #1E1B1B;
 }
 .clear-process .left p.sb {
-    font-family: Manrope;
+    font-family: "Manrope", sans-serif;
     font-size: 16px;
     font-weight: 600;
     line-height: 28px;
