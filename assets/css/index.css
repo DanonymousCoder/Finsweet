@@ -349,12 +349,11 @@ main .hero .right {
     display: flex;
     flex-direction: column;
     width: 100%;
-    height: 1052px;
+    height: 952px;
     padding-left: 60px;
     padding-top: 90px;
     background-color: #F2F2F2;
     margin-top: 70px;
-    position: relative;
 }
 .offers p.lt {
     font-family: "Manrope", sans-serif;
