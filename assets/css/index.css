@@ -321,6 +321,10 @@ main .hero .right {
     line-height: 48px;
     letter-spacing: -0.03em;
     text-align: left;
+    width: 175px
+    height: 48px
+    top: 1965px
+    left: 1195px
 }
 .clear-process .zero .img {
     display: flex;
