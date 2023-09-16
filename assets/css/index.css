@@ -214,3 +214,11 @@ main .hero .right {
     padding-left: 60px;
     margin-top: 70px;
 }
+.serious .know arrow {
+font-family: Manrope;
+font-size: 18px;
+font-weight: 600;
+line-height: 32px;
+letter-spacing: 0em;
+text-align: left;
+}
