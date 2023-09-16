@@ -504,5 +504,5 @@ header main .hero .right img {
     left: 360px;
     padding: 16px, 40px, 16px, 40px;
     border-radius: 12px;
-    gap: 10px;
+    background-color: background: #1E1B1B;
 }
