@@ -343,3 +343,11 @@ main .hero .right {
     align-items: center;
     gap: 1rem;
 }
+
+
+.offers {
+    display: flex;
+    width: 100%;
+    padding-left: 60px;
+    padding-top: 90px;
+}
