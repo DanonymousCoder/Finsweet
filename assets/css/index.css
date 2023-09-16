@@ -143,9 +143,10 @@ main .hero .left .down .words p.s-ead {
     color: black;
 }
 
-main .hero .right {
-    
-   
+header main .hero .right img {
+    position: absolute;
+    right: -20%;
+    bottom: 0;
 }
 
 .serious {
