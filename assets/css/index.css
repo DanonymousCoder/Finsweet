@@ -417,6 +417,11 @@ main .hero .right {
     top: 70px;
     left: 100px;
 }
+.offers .offs .off-box2 p.sbx {
+    position: absolute;
+    top: 100px;
+    left: 100px;
+}
 .serve-arr {
     display: flex;
     gap: 0.5rem;
