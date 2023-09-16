@@ -226,6 +226,16 @@ main .hero .right {
     text-align: left;
     color: #1E1B1B;
 }
+.serious .right .get-quote form a.quote {
+    width: Hug (208px);
+    height: Hug (64px);
+    top: 1556px;
+    left: 975px;
+    padding: 16px, 40px, 16px, 40px;
+    border-radius: 12px;
+    gap: 10px;
+
+}
 .serious .know-arrow {
     display: flex;
     align-items: center;
