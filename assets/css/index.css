@@ -260,6 +260,9 @@ main .hero .right {
 .clear-process {
     display: flex;
 }
+.clear-process .left {
+    width: 50%;
+}
 .clear-process .zero {
     display: flex;
     gap: 1rem;
