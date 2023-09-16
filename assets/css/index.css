@@ -512,4 +512,6 @@ header main .hero .right img {
     line-height: 32px;
     letter-spacing: 0em;
     text-align: left;
+    text-decoration: none;
+    color: white;
 }
