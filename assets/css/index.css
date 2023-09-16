@@ -528,7 +528,7 @@ header main .hero .right img {
     display: flex;
     align-items: center;
     justify-content: center;
-    gap: 3rem;
+    gap: 5rem;
 }
 .stats .prof .hd {
     font-size: 58px;
