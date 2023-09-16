@@ -322,8 +322,16 @@ main .hero .right {
     letter-spacing: -0.03em;
     text-align: left;
     height: 48px;
+    width: 325px;
 }
 .clear-process .right .zero .txt p.hx {
+    //styleName: Body (01);
+font-family: Manrope;
+font-size: 18px;
+font-weight: 600;
+line-height: 32px;
+letter-spacing: 0em;
+text-align: left;
 
 }
 .clear-process .zero .img {
