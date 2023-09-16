@@ -170,6 +170,7 @@ main .hero .right {
 .hd {
     display: flex;
     align-items: center;
+    padding: 10px 0;
 }
 .serious .right h3 {
     font-family: "Manrope", sans-serif;
