@@ -147,9 +147,7 @@ header main .hero .right {
     width: 40%;
 }
 header main .hero .right img {
-    position: absolute;
-    right: 0%;
-    bottom: 0;
+    width: 100%;
 }
 
 .serious {
