@@ -428,6 +428,7 @@ main .hero .right {
     letter-spacing: -0.03em;
     text-align: center;
     width: 144px;
+    color: white;
 }
 .serve-arr {
     display: flex;
