@@ -262,6 +262,7 @@ main .hero .right {
 }
 .clear-process .zero {
     display: flex;
+    gap: 1rem;
 }
 .clear-process .zero .img {
     display: flex;
