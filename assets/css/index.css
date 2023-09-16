@@ -420,4 +420,5 @@ main .hero .right {
     align-items: center;
     position: absolute;
     right: 0;
+    top: 650px;
 }
