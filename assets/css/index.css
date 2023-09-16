@@ -367,6 +367,7 @@ main .hero .right {
     height: 36px;
     display: flex;
     align-self: center;
+    margin-bottom:20px;
 }
 .offers h2 {
     font-family: "Manrope", sans-serif;
