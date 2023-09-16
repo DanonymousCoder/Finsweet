@@ -395,15 +395,15 @@ main .hero .right {
     gap: 0.5rem;
 }
 .offers .offs .off-box {
-    width: 216px;
-    height: 132px;
+    width: 270px;
+    height: 206px;
     background-color: white;
     align-items: center;
     justify-content: center;
 }
 .offers .offs .off-box2 {
-    width: 216px;
-    height: 132px;
+    width: 270px;
+    height: 206px;
     background-color: #FF6433;
     align-content: center;
     justify-content: center;
