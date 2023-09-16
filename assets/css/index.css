@@ -402,6 +402,6 @@ main .hero .right {
     width: 316px;
     height: 232px;
     background-color: #FF6433;
-    align-items: center;
+    align-content: center;
     justify-content: center;
 }
