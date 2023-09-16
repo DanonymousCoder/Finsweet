@@ -324,6 +324,9 @@ main .hero .right {
     width: 175px;
     height: 48px;
 }
+.clear-process .right .zero .txt p.hx {
+    
+}
 .clear-process .zero .img {
     display: flex;
     flex-direction: column;
