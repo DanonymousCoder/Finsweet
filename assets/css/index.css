@@ -268,6 +268,14 @@ main .hero .right {
 .clear-process .left {
     width: 40%;
 }
+.clear-process .left h2 {
+    font-family: Manrope;
+    font-size: 58px;
+    font-weight: 800;
+    line-height: 76px;
+    letter-spacing: -0.03em;
+    text-align: left;
+}
 .clear-process .right {
     width: 30%;
 }
