@@ -420,9 +420,6 @@ main .hero .right {
     gap: 1rem;
 }
 .offers .offs .off-box2 p.sbx {
-    position: absolute;
-    top: 115px;
-    left: 63px;
     font-family: "Manrope", sans-serif;
     font-size: 24px;
     font-weight: 600;
