@@ -228,6 +228,7 @@ main .hero .right {
 }
 .serious .right .get-quote form a.quote {
     height: 74px;
+    background-color: #FF6433;
 }
 .serious .know-arrow {
     display: flex;
