@@ -234,6 +234,7 @@ main .hero .right {
     background-color: #FF6433;
     border-radius: 12px;
     color: white;
+    text-decoration: none;
 }
 .serious .know-arrow {
     display: flex;
