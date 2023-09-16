@@ -216,7 +216,7 @@ main .hero .right {
     margin-top: 70px;
 }
 .serious .know-arrow p.know{
-    font-family: Manrope;
+    font-family: "Manrope", sans-serif;
     font-size: 18px;
     font-weight: 600;
     line-height: 32px;
