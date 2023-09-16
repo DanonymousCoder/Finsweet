@@ -278,13 +278,12 @@ main .hero .right {
     color: #1E1B1B;
 }
 .clear-process .left p.sb {
-font-family: Manrope;
-font-size: 16px;
-font-weight: 600;
-line-height: 28px;
-letter-spacing: 0em;
-text-align: left;
-
+    font-family: Manrope;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: left;
 }
 .clear-process .right {
     width: 30%;
