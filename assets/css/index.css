@@ -482,6 +482,9 @@ header main .hero .right img {
     left: 195px;
     width: 529px;
     height: 348px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .get-in-touch .cta h3 {
     font-family: Manrope;
