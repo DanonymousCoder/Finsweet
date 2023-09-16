@@ -80,6 +80,8 @@
 }
 main {
     margin-top: 50px;
+    display: flex;
+    align-items: center;
 }
 main .hero {
     display: flex;
