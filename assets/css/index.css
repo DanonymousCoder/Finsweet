@@ -212,6 +212,7 @@ main .hero .right {
 .serious .know-arrow {
     display: flex;
     align-items: center;
+    justify-content: center;
     gap: 0.5rem;
     padding-left: 65px;
     margin-top: 70px;
