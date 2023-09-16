@@ -485,6 +485,7 @@ header main .hero .right img {
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-direction: column;
 }
 .get-in-touch .cta h3 {
     font-family: Manrope;
