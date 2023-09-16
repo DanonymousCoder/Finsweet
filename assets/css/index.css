@@ -159,7 +159,7 @@ header main .hero .right img {
 
 .serious {
     background-color: #E2E6E9;
-    width: 100%;
+    width: 100vw;
     height: 874px;
     display: flex;
     padding-left: 60px;
