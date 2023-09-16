@@ -519,3 +519,8 @@ header main .hero .right img {
     text-decoration: none;
     color: white;
 }
+
+
+.stats {
+    background-color: #F2F2F2;
+}
