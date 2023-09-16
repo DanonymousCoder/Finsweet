@@ -152,6 +152,7 @@ main .hero .right {
     height: 594px;
     display: flex;
     padding-left: 60px;
+    padding-top: 70px;
 }
 .serious h2 {
     font-family: Manrope;
