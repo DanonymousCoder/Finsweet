@@ -384,6 +384,7 @@ main .hero .right {
     display: flex;
     flex-direction: column;
     align-self: center;
+    gap: 0.5rem;
 }
 .offers .offs .offer-box1 {
     display: flex;
