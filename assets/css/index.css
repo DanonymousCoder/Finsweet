@@ -373,4 +373,6 @@ main .hero .right {
     text-align: center;
     width: 858px;
     height: 152px;
+    display: flex;
+    align-self: center;
 }
