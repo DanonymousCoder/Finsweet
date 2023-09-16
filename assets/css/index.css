@@ -288,7 +288,9 @@ main .hero .right {
     width: 437px;
     height: 56px;
     opacity: 60%;
-
+}
+.clear-process .left .learn {
+    margin-top: 60px;
 }
 .clear-process .right {
     width: 30%;
