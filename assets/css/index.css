@@ -413,3 +413,6 @@ main .hero .right {
     align-self: center;
     justify-self: center;
 }
+.serve-arr {
+    display: flex;
+}
