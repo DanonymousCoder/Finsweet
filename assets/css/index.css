@@ -388,9 +388,11 @@ main .hero .right {
 }
 .offers .offs .offer-box1 {
     display: flex;
+    gap: 0.5rem;
 }
 .offers .offs .offer-box2 {
     display: flex;
+    gap: 0.5rem;
 }
 .offers .offs .off-box {
     width: 316px;
