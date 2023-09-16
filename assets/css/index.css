@@ -167,6 +167,9 @@ main .hero .right {
     width: 583px;
     height: 152px;
 }
+.hd {
+    display: flex;
+}
 .serious .right h3 {
     font-family: "Manrope", sans-serif;
     font-size: 48px;
