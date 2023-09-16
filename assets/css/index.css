@@ -530,6 +530,9 @@ header main .hero .right img {
     justify-content: center;
     gap: 5rem;
 }
+.stats .prof {
+    text-align: left;
+}
 .stats .prof .hd {
     font-size: 58px;
     font-weight: 800;
