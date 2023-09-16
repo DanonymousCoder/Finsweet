@@ -421,6 +421,6 @@ main .hero .right {
     gap: 0.5rem;
     align-items: center;
     position: absolute;
-    right: 0;
-    top: 820px;
+    right: 20px;
+    top: 830px;
 }
