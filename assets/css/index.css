@@ -507,4 +507,10 @@ header main .hero .right img {
     background-color: #1E1B1B;
     width: 97px;
     height: 32px;
+    font-family: Manrope;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 32px;
+    letter-spacing: 0em;
+    text-align: left;
 }
