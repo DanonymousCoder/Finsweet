@@ -213,7 +213,7 @@ main .hero .right {
     display: flex;
     align-items: center;
     gap: 0.5rem;
-    padding-left: 60px;
+    padding-left: 65px;
     margin-top: 70px;
 }
 .serious .know-arrow p.know{
