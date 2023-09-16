@@ -180,6 +180,7 @@ main .hero .right {
     line-height: 36px;
     letter-spacing: -0.03em;
     text-align: left;
+    color: #1E1B1B;
 }
 .serious .left .feature {
     margin-bottom: 30px;
