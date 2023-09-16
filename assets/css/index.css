@@ -429,6 +429,15 @@ main .hero .right {
     width: 144px;
     color: white;
 }
+.offers .offs .off-box p.sbx {
+    font-family: "Manrope", sans-serif;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 36px;
+    letter-spacing: -0.03em;
+    text-align: center;
+    width: 144px;
+}
 .serve-arr {
     display: flex;
     gap: 0.5rem;
