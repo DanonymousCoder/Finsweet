@@ -416,5 +416,5 @@ main .hero .right {
 .serve-arr {
     display: flex;
     gap: 0.5rem;
-    align-items: flex-end;
+    align-items: center;
 }
