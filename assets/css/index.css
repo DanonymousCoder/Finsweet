@@ -321,11 +321,10 @@ main .hero .right {
     line-height: 48px;
     letter-spacing: -0.03em;
     text-align: left;
-    width: 175px;
     height: 48px;
 }
 .clear-process .right .zero .txt p.hx {
-    
+
 }
 .clear-process .zero .img {
     display: flex;
