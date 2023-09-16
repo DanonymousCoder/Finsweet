@@ -497,6 +497,11 @@ header main .hero .right img {
     width: 329px;
     height: 134px;
 }
+.cta-btn {
+    margin-top: 10px;
+    display: flex;
+    align-content: flex-start;
+}
 .cta-btn .btn {
     width: 177px;
     height: 64px;
