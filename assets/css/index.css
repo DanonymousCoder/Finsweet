@@ -235,6 +235,7 @@ main .hero .right {
     border-radius: 12px;
     color: white;
     text-decoration: none;
+    font-family: "Manrope", sans-serif;
 }
 .serious .know-arrow {
     display: flex;
