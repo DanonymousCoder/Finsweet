@@ -181,6 +181,15 @@ main .hero .right {
     letter-spacing: -0.03em;
     text-align: left;
 }
+.serious .left .feature p.sub {
+    font-family: Manrope;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
 .serious .right h3 {
     font-family: "Manrope", sans-serif;
     font-size: 48px;
