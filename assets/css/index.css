@@ -394,8 +394,10 @@ main .hero .right {
 .offers .offs .off-box {
     width: 316px;
     height: 232px;
+    background-color: white;
 }
 .offers .offs .off-box2 {
     width: 316px;
     height: 232px;
+    background-color: #FF6433;
 }
