@@ -227,6 +227,7 @@ main .hero .right {
     color: #1E1B1B;
 }
 .serious .right .get-quote form a.quote {
+    margin-top: 30px;
     padding: 16px 40px;
     background-color: #FF6433;
 }
