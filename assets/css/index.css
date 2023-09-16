@@ -488,11 +488,15 @@ header main .hero .right img {
     flex-direction: column;
 }
 .get-in-touch .cta h3 {
-    font-family: Manrope;
     font-size: 48px;
     font-weight: 700;
     line-height: 67px;
     letter-spacing: -0.03em;
     text-align: left;
     color: white;
+    width: 569px
+height: 134px
+top: 3783px
+left: 360px
+
 }
