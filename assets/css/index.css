@@ -224,6 +224,7 @@ main .hero .right {
     line-height: 28px;
     letter-spacing: 0em;
     text-align: left;
+    color: #1E1B1B;
 }
 .serious .know-arrow {
     display: flex;
