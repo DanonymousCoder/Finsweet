@@ -84,7 +84,7 @@ main {
 main .hero {
     display: flex;
     align-items: center;
-    gap: 5rem;
+    gap: 10%
 }
 main .hero .left {
     width: 50%;
