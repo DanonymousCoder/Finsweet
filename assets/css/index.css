@@ -403,8 +403,11 @@ main .hero .right {
     width: 270px;
     height: 206px;
     background-color: white;
-    text-align: center;
-    padding-top: 70px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
 }
 .offers .offs .off-box2 {
     width: 270px;
