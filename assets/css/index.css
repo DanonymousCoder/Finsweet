@@ -142,11 +142,14 @@ main .hero .left .down .words p.s-ead {
     text-align: left;
     color: black;
 }
-
+header main .hero .right {
+    position: relative;
+}
 header main .hero .right img {
     position: absolute;
     right: -20%;
     bottom: 0;
+    height: ;
 }
 
 .serious {
