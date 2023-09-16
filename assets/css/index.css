@@ -150,6 +150,8 @@ header main .hero .right {
 }
 header main .hero .right img {
     width: 100%;
+    position: absolute;
+    right: 0;
 }
 
 .serious {
