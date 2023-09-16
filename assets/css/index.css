@@ -412,8 +412,9 @@ main .hero .right {
     background-color: #FF6433;
 }
 .offers .offs .off-box2 img {
-    align-self: center;
-    justify-self: center;
+    position: relative;
+    top: 500px;
+    left: 500px;
 }
 .serve-arr {
     display: flex;
