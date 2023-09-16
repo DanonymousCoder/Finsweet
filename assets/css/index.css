@@ -276,6 +276,7 @@ main .hero .right {
     letter-spacing: -0.03em;
     text-align: left;
     color: #1E1B1B;
+    margin-bottom: 10px;
 }
 .clear-process .left p.sb {
     font-family: "Manrope", sans-serif;
