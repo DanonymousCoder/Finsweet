@@ -183,3 +183,6 @@ main .hero .right {
     width: 587px;
     height: 134px;
 }
+.serious .know-arrow {
+    display: flex;
+}
