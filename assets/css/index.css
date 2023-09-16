@@ -293,7 +293,16 @@ main .hero .right {
     margin-top: 30px;
 }
 .clear-process .left .learn a.more-learn {
-   
+    padding: 16px 40px;
+    background-color: #FF6433;
+    border-radius: 12px;
+    color: white;
+    text-decoration: none;
+    font-family: "Manrope", sans-serif;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 31.5px;
+    word-spacing: 0.1rem;
 }
 .clear-process .right {
     width: 30%;
