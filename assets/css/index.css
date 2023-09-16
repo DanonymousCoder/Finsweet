@@ -471,3 +471,6 @@ header main .hero .right img {
 .get-in-touch {
     width: 100%;
 }
+.get-in-touch .image {
+    display: flex;
+}
