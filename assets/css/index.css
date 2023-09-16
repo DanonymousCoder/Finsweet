@@ -380,6 +380,6 @@ main .hero .right {
 .offers .offs {
     width: 1288px;
     height: 472px;
-    top: 3014px;
-    left: 319px;
+    display: flex;
+    flex-direction: column;
 }
