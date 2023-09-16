@@ -383,6 +383,7 @@ main .hero .right {
     height: 472px;
     display: flex;
     flex-direction: column;
+    align-self: center;
 }
 .offers .offs .offer-box1 {
     display: flex;
