@@ -413,12 +413,11 @@ main .hero .right {
     width: 270px;
     height: 206px;
     background-color: #FF6433;
-    position: relative;
-}
-.offers .offs .off-box2 img {
-    position: absolute;
-    top: 60px;
-    left: 110px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
 }
 .offers .offs .off-box2 p.sbx {
     position: absolute;
