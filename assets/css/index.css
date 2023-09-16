@@ -334,6 +334,7 @@ header main .hero .right img {
     text-align: left;
     height: 48px;
     width: 325px;
+    padding-top: 10px;
 }
 .clear-process .right .zero .txt p.bx {
     font-family: Manrope;
