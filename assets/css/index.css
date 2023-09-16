@@ -6,6 +6,9 @@
     box-sizing: border-box;
     font-family: "Manrope", sans-serif;
 }
+.container {
+    width: 100%;
+}
 .header {
     background-color: white;
     padding-left: 50px;
