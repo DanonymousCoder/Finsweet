@@ -154,11 +154,10 @@ main .hero .right {
     padding-left: 60px;
 }
 .serious h2 {
-font-family: Manrope;
-font-size: 58px;
-font-weight: 800;
-line-height: 76px;
-letter-spacing: -0.03em;
-text-align: left;
-
+    font-family: Manrope;
+    font-size: 58px;
+    font-weight: 800;
+    line-height: 76px;
+    letter-spacing: -0.03em;
+    text-align: left;
 }
