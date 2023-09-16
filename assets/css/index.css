@@ -314,6 +314,14 @@ main .hero .right {
     display: flex;
     gap: 1rem;
 }
+.clear-process .right .zero .txt p.hx {
+    font-family: Manrope;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 48px;
+    letter-spacing: -0.03em;
+    text-align: left;
+}
 .clear-process .zero .img {
     display: flex;
     flex-direction: column;
