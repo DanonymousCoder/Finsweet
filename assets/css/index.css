@@ -236,6 +236,7 @@ main .hero .right {
     color: white;
     text-decoration: none;
     font-family: "Manrope", sans-serif;
+    font-weight: 600;
 }
 .serious .know-arrow {
     display: flex;
