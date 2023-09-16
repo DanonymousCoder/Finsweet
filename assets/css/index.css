@@ -208,6 +208,7 @@ main .hero .right {
     text-align: left;
     width: 587px;
     height: 134px;
+    margin-bottom: 30px;
 }
 .serious .know-arrow {
     display: flex;
