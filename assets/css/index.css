@@ -172,7 +172,7 @@ main .hero .right {
     display: flex;
     align-items: center;
     padding: 10px 0;
-    gap: 0.5rem;
+    gap: 1rem;
 }
 .serious .left .hd p {
     font-family: "Manrope", sans-serif;
