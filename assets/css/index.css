@@ -483,3 +483,12 @@ header main .hero .right img {
     width: 529px;
     height: 348px;
 }
+.get-in-touch .cta h3 {
+    font-family: Manrope;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 67px;
+    letter-spacing: -0.03em;
+    text-align: left;
+    color: white;
+}
