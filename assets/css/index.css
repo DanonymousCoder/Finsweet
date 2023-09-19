@@ -556,9 +556,9 @@ header main .hero .right {
 
 @media (max-width: 1024px) {
     .get-in-touch .cta {
-        top: 3350px;
+        top: 3340px;
         left: 195px;
         width: 529px;
-        height: 350px;;
+        height: 340px;;
     }
 }
