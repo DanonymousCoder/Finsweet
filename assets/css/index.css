@@ -554,7 +554,7 @@ header main .hero .right {
     height: 36px;
 }
 
-@media (min-height: 1000px) and (max-height: 1024px) {
+@media screen and (max-height: 1024px) {
     .get-in-touch .cta {
         top: 3400px;
         left: 195px;
