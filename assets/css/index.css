@@ -467,59 +467,53 @@ header main .hero .right {
     text-align: left;
 }
 
-
-.get-in-touch {
+section #get-in {
+    height: 75vh;
     width: 100%;
 }
-.get-in-touch .image {
+.containert {
     display: flex;
+    height: 55vh;
+    width: 100%;
 }
-.get-in-touch .cta {
+.left-imag {
+    background-image: url("../img/car-cta.png");
+    width: 50%;
+    height: 100%;
+    display: flex;
+    justify-content: flex-end;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.cta {
     background-color: #FF6433;
-    position: absolute;
-    top: 3370px;
-    left: 195px;
-    width: 529px;
-    height: 360px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
-}
-.get-in-touch .cta h3 {
-    font-size: 35px;
-    font-weight: 800;
-    line-height: 67px;
-    letter-spacing: -0.03em;
-    text-align: left;
-    color: white;
-    width: 430px;
-    height: 134px;
-}
-.cta-btn {
-    margin-top: 40px;
-    width: 100%;
+    width: 70%;
     padding-left: 50px;
+    padding-right: 20px;
+    display: flex;
+    gap: 2.5rem;
+    flex-direction: column;
+    justify-content: center;
+}
+.cta h3 {
+    font-size: 30px;
+    color: white;
 }
 .cta-btn .btn {
-    width: 177px;
-    height: 64px;
-    top: 3965px;
-    left: 360px;
-    padding: 16px 40px;
-    border-radius: 12px;
     background-color: #1E1B1B;
-    width: 97px;
-    height: 32px;
-    font-size: 18px;
-    font-weight: 600;
-    line-height: 32px;
-    letter-spacing: 0em;
-    text-align: left;
-    text-decoration: none;
+    padding: 15px 30px;
     color: white;
+    text-decoration: none;
+    border-radius: 10px;
 }
-
+.right-imag {
+    background-image: url("../img/ovGrEUgrkyE.png");
+    width: 50%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 
 .stats {
     background-color: #F2F2F2;
@@ -554,19 +548,3 @@ header main .hero .right {
     height: 36px;
 }
 
-@media screen and (max-height: 1024px) {
-    .get-in-touch .cta {
-        top: 3370px;
-        left: 195px;
-        width: 529px;
-        height: 360px;;
-    }
-}
-@media screen and (max-height: 970) and (max-width: 1000){
-    .get-in-touch .cta {
-        top: 3340px;
-        left: 195px;
-        width: 529px;
-        height: 265px;;
-    }
-}
