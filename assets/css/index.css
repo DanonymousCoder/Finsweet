@@ -93,9 +93,7 @@ section {
     justify-content: center;
 }
 section .hero {
-    display: flex;
-    align-items: center;
-    position: relative;
+    width: 80%;
 }
 section .hero .left {
     width: 50%;
