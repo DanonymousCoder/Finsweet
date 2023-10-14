@@ -652,6 +652,9 @@ section#get-in {
    .header nav .links .help .txt p {
     font-size: 10px;
    }
+   .mainsec .herosec {
+    flex-direction: column;
+   }
 }
 
 @media screen and (max-width: 840px) {
@@ -688,6 +691,6 @@ section#get-in {
         gap: 1rem;
        }
        .header nav .links .help .txt p {
-        font-size: 30px;
+        font-size: 25px;
        }
 }
