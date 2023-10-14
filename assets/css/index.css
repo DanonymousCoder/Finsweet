@@ -21,8 +21,8 @@ body {
     background-color: white;
     width: 100vw;
     position: fixed;
-    padding-left: 140px;
-    padding-right: 140px;
+    padding-left: 120px;
+    padding-right: 180px;
     z-index: 100;
 }
 .header nav {
