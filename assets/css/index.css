@@ -25,6 +25,7 @@ section {
 }
 section.head {
     height: 35vh;
+    align-items: center;
 } 
 .header {
     background-color: white;
