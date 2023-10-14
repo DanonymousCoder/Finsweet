@@ -619,6 +619,9 @@ section#get-in {
     .header nav .links ul li a {
         font-size: 12px;
     }
+    .header nav .links {
+        flex-direction: column;
+    }
 }
 
 @media screen and (max-width: 770px) {
