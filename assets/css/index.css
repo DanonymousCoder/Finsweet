@@ -632,8 +632,8 @@ section#get-in {
     column-gap: 10px;
     border: none;
    }
-   .header nav .links ul li a {
-    font-size: 10px;
+   .header nav .links ul li a  {
+    font-size: 5px;
    }
    .header nav .links .help {
     gap: 0.5rem;
@@ -648,7 +648,7 @@ section#get-in {
     gap: 0.2rem;
    }
    .help .txt p {
-    font-size: 12px;
+    font-size: 5px;
    }
 }
 
