@@ -191,6 +191,8 @@ section .herosec .left .down .words p.s-ead {
     background-color: #E2E6E9;
     display: flex;
     justify-content: center;
+    align-items: center;
+    padding-bottom: 70px;
 }
 .serious {
     background-color: #E2E6E9;
