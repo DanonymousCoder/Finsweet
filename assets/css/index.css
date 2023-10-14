@@ -626,6 +626,12 @@ section#get-in {
    .links {
     flex-direction: column;
    }
+   nav .links ul {
+    column-gap: 20px;
+   }
+   nav .links ul li {
+    font-size: 12px;
+   }
 }
 
 @media screen and (max-width: 770px) {
