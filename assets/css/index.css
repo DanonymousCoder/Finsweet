@@ -647,6 +647,7 @@ section#get-in {
         align-items: center;
         flex-direction: column;
         justify-content: center;
+        background-color: #661CE7;
     }
     .mainsec .herosec .left  p.head {
         font-size: 27px;
