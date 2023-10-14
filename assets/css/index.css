@@ -625,7 +625,7 @@ section#get-in {
     .logo a.log {
     font-size: 20px;
    }
-   .links {
+   .header nav .links {
     flex-direction: column;
    }
    .header nav .links ul {
