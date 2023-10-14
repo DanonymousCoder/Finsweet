@@ -629,11 +629,13 @@ section#get-in {
     align-items: center;
    }
    .header nav .links ul {
-    column-gap: 10px;
+    column-gap: 5px;
+    flex-wrap: wrap;
+    justify-content: center;
     border: none;
    }
    .header nav .links ul li a  {
-    font-size: 5px;
+    font-size: 0.5px;
    }
    .header nav .links .help {
     gap: 0.5rem;
