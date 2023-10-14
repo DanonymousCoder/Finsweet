@@ -606,7 +606,9 @@ section#get-in {
 
 
 @media screen and (max-width: 425px) {
-    
+    nav {
+        flex-direction: column;
+    }
 }
 
 @media screen and (max-width: 770px) {
