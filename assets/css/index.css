@@ -28,7 +28,7 @@ section.head {
 } 
 .header {
     background-color: white;
-    width: 80%;
+    width: 75%;
     position: fixed;
     z-index: 100;
 }
