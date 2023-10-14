@@ -402,7 +402,9 @@ section#serious {
     gap: 1rem;
 }
 
-
+.offsec {
+    height: 120vh;
+}
 .offers {
     display: flex;
     flex-direction: column;
