@@ -42,9 +42,8 @@ section.head {
     padding: 15px 10px;
     width: 80%;
 }
-.logo a.log p.fin {
+.logo a.log {
     text-decoration: none;
-    color: black;
 }
 .header nav .links {
     display: flex;
