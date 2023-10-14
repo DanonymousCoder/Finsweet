@@ -103,7 +103,11 @@ body {
     height: 100%;
     background-color: #1E1B1B;
 }
-
+.mainsec .hero .right {
+    width: 50%;
+    height: 100%;
+    background-color: #661CE7;
+}
 .serious {
     background-color: #E2E6E9;
     width: 100vw;
