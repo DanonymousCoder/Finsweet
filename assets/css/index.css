@@ -301,6 +301,7 @@ section#serious {
     gap: 0.7rem;
     padding-left: 65px;
     margin-top: 60px;
+    justify-content: flex-end;
 }
 .serious .know-arrow p.know{
     font-family: "Manrope", sans-serif;
