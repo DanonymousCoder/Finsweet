@@ -509,9 +509,9 @@ section.offsec {
 .serve-arr {
     display: flex;
     gap: 0.5rem;
-    align-items: center;
     justify-content: flex-end;
-    align-items: flex-end;
+    align-items: center;
+    
 }
 .learn-at-serve {
     font-family: "Manrope", sans-serif;
