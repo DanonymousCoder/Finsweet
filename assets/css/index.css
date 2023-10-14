@@ -626,6 +626,9 @@ section#get-in {
     .header nav .links {
         flex-direction: column;
     }
+    .header nav .links .help img {
+        width: 15px;
+    }
 }
 
 @media screen and (max-width: 770px) {
