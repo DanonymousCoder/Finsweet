@@ -121,12 +121,12 @@ section.head {
     justify-content: center;
 }
 section .herosec .left p.head {
-    font-size: 45px;
+    font-size: 55px;
     font-weight: 800;
-    line-height: 84px;
+    line-height: 74px;
     letter-spacing: -0.03em;
     text-align: left;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
 }
 
 section .herosec .left button {
