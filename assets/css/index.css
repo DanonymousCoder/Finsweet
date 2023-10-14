@@ -199,7 +199,8 @@ section .herosec .left .down .words p.s-ead {
     padding-top: 90px;
 }
 .serious .left {
-    width: 584px;
+    width: 50%;
+    background-color: #1E1B1B;
 }
 .serious .left h2 {
     font-family: "Manrope", sans-serif;
@@ -242,6 +243,10 @@ section .herosec .left .down .words p.s-ead {
     width: 322px;
     height: 56px;
     opacity: 60%;
+}
+.serious .right {
+    width: 50%;
+    background-color: #661CE7;
 }
 .serious .right h3 {
     font-family: "Manrope", sans-serif;
