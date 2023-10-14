@@ -29,7 +29,9 @@ section.head {
 } 
 .header {
     background-color: white;
-    width: 80%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
     position: fixed;
     z-index: 100;
 }
@@ -38,6 +40,7 @@ section.head {
     justify-content: space-between;
     align-items: center;
     padding: 15px 10px;
+    width: 80%;
 }
 .header nav .links {
     display: flex;
