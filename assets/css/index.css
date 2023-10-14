@@ -636,6 +636,9 @@ section#get-in {
     .header nav .links .help .txt p.sub {
         font-size: 13px;
     } 
+    .mainsec {
+        flex-direction: column;
+    }
 }
 
 @media screen and (max-width: 770px) {
