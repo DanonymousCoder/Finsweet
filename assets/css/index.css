@@ -344,6 +344,7 @@ section .herosec .left .down .words p.s-ead {
     display: flex;
     flex-direction: column;
     gap: 2rem;
+    background-color: #661CE7;
 }
 .clear-process .zero {
     display: flex;
