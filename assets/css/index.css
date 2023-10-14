@@ -195,6 +195,7 @@ section .herosec .left .down .words p.s-ead {
     width: 80%;
     height: 100%;
     display: flex;
+    justify-content: center;
     padding-left: 60px;
     padding-top: 90px;
 }
