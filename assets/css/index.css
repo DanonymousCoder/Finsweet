@@ -629,7 +629,7 @@ section#get-in {
    nav .links ul {
     column-gap: 10px;
    }
-   nav .links ul li a {
+   .header nav .links ul li a {
     font-size: 12px;
    }
 }
