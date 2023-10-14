@@ -139,7 +139,7 @@ section .hero .left .down .words {
     flex-direction: column;
     gap: 1px;
 }
-main .hero .left .down .words p.ead {
+section .hero .left .down .words p.ead {
     font-size: 15px;
     font-weight: 500;
     line-height: 24px;
