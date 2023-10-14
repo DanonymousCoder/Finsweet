@@ -405,6 +405,9 @@ section#serious {
 .offsec {
     height: 150vh;
     background-color: #F2F2F2;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
 .offers {
     display: flex;
