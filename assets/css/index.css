@@ -616,6 +616,9 @@ section#get-in {
     .header nav .links ul {
         gap: 0.5rem;
     }
+    .header nav .links ul li {
+        font-size: 12px;
+    }
 }
 
 @media screen and (max-width: 770px) {
