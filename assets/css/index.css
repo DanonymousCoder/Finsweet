@@ -89,6 +89,9 @@ body {
 .mainsec {
     width: 100%;
     height: 80vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 .serious {
     background-color: #E2E6E9;
