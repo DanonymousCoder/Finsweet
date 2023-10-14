@@ -639,6 +639,10 @@ section#get-in {
     .mainsec .herosec {
         flex-direction: column;
     }
+    .mainsec .herosec .left {
+        width:100%;
+        height: 100%;
+    }
 }
 
 @media screen and (max-width: 770px) {
