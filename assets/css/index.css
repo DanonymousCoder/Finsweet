@@ -404,6 +404,7 @@ section#serious {
 
 .offsec {
     height: 120vh;
+    background-color: #F2F2F2;
 }
 .offers {
     display: flex;
@@ -412,9 +413,6 @@ section#serious {
     height: 100%;
     padding-left: 60px;
     padding-top: 90px;
-    background-color: #F2F2F2;
-    margin-top: 70px;
-    position: relative;
 }
 .offers p.lt {
     font-family: "Manrope", sans-serif;
