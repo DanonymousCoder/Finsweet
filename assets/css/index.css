@@ -294,6 +294,7 @@ section .herosec .left .down .words p.s-ead {
 .clear-process {
     display: flex;
     width: 80%;
+    height: 100%;
     gap: 7rem;
     padding-left: 60px;
     padding-top: 90px;
@@ -301,6 +302,7 @@ section .herosec .left .down .words p.s-ead {
 }
 .clear-process .left {
     width: 50%;
+    height: 100%;
     background-color: black;
 }
 .clear-process .left h2 {
