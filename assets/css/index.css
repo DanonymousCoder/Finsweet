@@ -629,6 +629,12 @@ section#get-in {
     .header nav .links .help img {
         width: 29px;
     }
+    .header nav .links .help .txt p.head {
+        font-size: 13px;
+    } 
+    .header nav .links .help .txt p.sub {
+        font-size: 13px;
+    } 
 }
 
 @media screen and (max-width: 770px) {
