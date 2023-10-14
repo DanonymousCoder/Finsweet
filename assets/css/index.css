@@ -21,6 +21,8 @@ body {
     background-color: white;
     width: 100vw;
     position: fixed;
+    padding-left: 150px;
+    padding-right: 150px;
 }
 .header nav {
     display: flex;
