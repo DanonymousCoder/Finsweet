@@ -643,6 +643,7 @@ section#get-in {
         width:50%;
         height: 100%;
         padding: 0 10px;
+        display: flex;
         align-items: center;
         flex-direction: column;
         justify-content: center;
