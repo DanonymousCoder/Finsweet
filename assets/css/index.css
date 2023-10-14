@@ -25,7 +25,7 @@ section {
 }
 .header {
     background-color: white;
-    width: 100vw;
+    width: 100%;
     position: fixed;
     padding-left: 120px;
     padding-right: 170px;
