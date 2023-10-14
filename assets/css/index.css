@@ -104,6 +104,61 @@ body {
     height: 100%;
     background-color: #1E1B1B;
 }
+section .hero .left p.head {
+    font-size: 35px;
+    font-weight: 800;
+    line-height: 84px;
+    letter-spacing: -0.03em;
+    text-align: left;
+    margin-bottom: 20px;
+}
+
+section .hero .left button {
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 32px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #ffffff;
+   background-color:  #FF6433;
+   padding: 16px 40px 16px 40px;
+    border-radius: 12px;
+    border: none;
+    margin-bottom: 60px;
+}
+
+section .hero .left .down {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+section .hero .left .down img {
+    height: 33px;
+    display: flex;
+    align-items: center;
+}
+section .hero .left .down .words {
+    display: flex;
+    flex-direction: column;
+    gap: 1px;
+}
+section .herosec .left .down .words p.ead {
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: grey;
+}
+section .herosec .left .down .words p.s-ead {
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 32px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: black;
+}
+
 .mainsec .herosec .right {
     width: 40%;
     height: 100%;
