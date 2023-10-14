@@ -318,6 +318,7 @@ section#serious {
     gap: 10rem;
     padding-left: 60px;
     padding-top: 90px;
+    padding-bottom: 90px;
     align-items: center;
 }
 .clear-process .left {
@@ -403,7 +404,7 @@ section#serious {
 }
 
 .offsec {
-    height: 100vh;
+    height: 130vh;
     background-color: #F2F2F2;
     display: flex;
     flex-direction: column;
