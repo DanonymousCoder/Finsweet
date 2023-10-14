@@ -300,7 +300,7 @@ section .herosec .left .down .words p.s-ead {
     display: flex;
     width: 80%;
     height: 100%;
-    gap: 4.5rem;
+    gap: 5.5rem;
     padding-left: 60px;
     padding-top: 90px;
     align-items: center;
@@ -312,7 +312,7 @@ section .herosec .left .down .words p.s-ead {
 }
 .clear-process .left h2 {
     font-family: "Manrope", sans-serif;
-    font-size: 58px;
+    font-size: 50px;
     font-weight: 800;
     line-height: 76px;
     letter-spacing: -0.03em;
