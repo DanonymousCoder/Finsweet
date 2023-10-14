@@ -467,8 +467,8 @@ section.offsec {
     gap: 0.5rem;
 }
 .offers .offs .off-box {
-    width: 200px;
-    height: 136px;
+    width: 250px;
+    height: 186px;
     background-color: white;
     display: flex;
     flex-direction: column;
