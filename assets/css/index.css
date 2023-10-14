@@ -673,14 +673,14 @@ section#get-in {
         border: none;
        }
        .header nav .links ul li a {
-        font-size: 22px;
+        font-size: 29px;
        }
        .header nav .links .help {
         gap: 0.5rem;
        }
        .help img {
-        width: 30px;
-        height: 30px;
+        width: 39px;
+        height: 39px;
        }
        .header nav .links .help .txt {
         display: flex;
@@ -688,6 +688,6 @@ section#get-in {
         gap: 0.5rem;
        }
        .help .txt p {
-        font-size: 25px;
+        font-size: 39px;
        }
 }
