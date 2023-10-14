@@ -640,10 +640,12 @@ section#get-in {
         flex-direction: column;
     }
     .mainsec .herosec .left {
-        width:100%;
+        width:50%;
         height: 100%;
         padding: 0 10px;
         align-items: center;
+        flex-direction: column;
+        justify-content: center;
     }
     .mainsec .herosec .left  p.head {
         font-size: 27px;
