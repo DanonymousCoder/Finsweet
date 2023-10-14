@@ -461,8 +461,8 @@ section#serious {
     gap: 0.5rem;
 }
 .offers .offs .off-box {
-    width: 300px;
-    height: 236px;
+    width: 200px;
+    height: 136px;
     background-color: white;
     display: flex;
     flex-direction: column;
@@ -471,8 +471,8 @@ section#serious {
     gap: 1rem;
 }
 .offers .offs .off-box2 {
-    width: 300px;
-    height: 236px;
+    width: 200px;
+    height: 136px;
     background-color: #FF6433;
     display: flex;
     flex-direction: column;
