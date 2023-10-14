@@ -618,6 +618,7 @@ section#get-in {
    .header nav {
     width: 100%;
     padding: 10px;
+    flex-direction: column;
    }
     .logo a.log {
     font-size: 18px;
