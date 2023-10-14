@@ -124,12 +124,12 @@ section .hero .left button {
     margin-bottom: 60px;
 }
 
-main .hero .left .down {
+section .hero .left .down {
     display: flex;
     align-items: center;
     gap: 0.5rem;
 }
-main .hero .left .down img {
+section .hero .left .down img {
     height: 33px;
     display: flex;
     align-items: center;
