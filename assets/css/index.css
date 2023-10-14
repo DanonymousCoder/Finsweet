@@ -636,12 +636,10 @@ section#get-in {
     font-size: 12px;
    }
    .help img {
-    width: 30px;
+    width: 20px;
+    height: 20px;
    }
-   .help .txt .head {
-    font-size: 12px;
-   }
-   .help .txt .sub {
+   .help .txt p {
     font-size: 12px;
    }
 }
