@@ -623,6 +623,9 @@ section#get-in {
     .logo a.log {
     font-size: 18px;
    }
+   .links {
+    flex-direction: column;
+   }
 }
 
 @media screen and (max-width: 770px) {
