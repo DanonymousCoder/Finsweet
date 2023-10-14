@@ -406,8 +406,8 @@ section#serious {
 .offers {
     display: flex;
     flex-direction: column;
-    width: 100vw;
-    height: 972px;
+    width: 80%;
+    height: 100%;
     padding-left: 60px;
     padding-top: 90px;
     background-color: #F2F2F2;
