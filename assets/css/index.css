@@ -86,7 +86,10 @@ body {
     display: flex;
     align-self: center;
 }
-
+.mainsec {
+    width: 100%;
+    height: 80vh;
+}
 .serious {
     background-color: #E2E6E9;
     width: 100vw;
