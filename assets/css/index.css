@@ -42,7 +42,7 @@ section.head {
     padding: 15px 10px;
     width: 80%;
 }
-.logo a.log p {
+.logo a.log p.fin {
     text-decoration: none;
     color: black;
 }
