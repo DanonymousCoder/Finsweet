@@ -127,7 +127,7 @@ section .hero .left button {
     margin-bottom: 60px;
 }
 
-section .hero .left .down {
+section .herosec .left .down {
     display: flex;
     align-items: center;
     gap: 0.5rem;
