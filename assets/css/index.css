@@ -147,7 +147,7 @@ section .hero .left .down .words p.ead {
     text-align: left;
     color: grey;
 }
-main .hero .left .down .words p.s-ead {
+section .hero .left .down .words p.s-ead {
     font-size: 18px;
     font-weight: 600;
     line-height: 32px;
