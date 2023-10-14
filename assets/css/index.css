@@ -104,7 +104,7 @@ body {
     height: 100%;
     background-color: #1E1B1B;
 }
-section .hero .left p.head {
+section .herosec .left p.head {
     font-size: 35px;
     font-weight: 800;
     line-height: 84px;
@@ -113,7 +113,7 @@ section .hero .left p.head {
     margin-bottom: 20px;
 }
 
-section .hero .left button {
+section .herosec .left button {
     font-size: 18px;
     font-weight: 600;
     line-height: 32px;
