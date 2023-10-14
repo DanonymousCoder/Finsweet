@@ -98,7 +98,6 @@ section .hero {
 }
 section .hero .left {
     width: 50%;
-    padding-left: 60px;
 }
 section .hero .left p.head {
     font-size: 50px;
