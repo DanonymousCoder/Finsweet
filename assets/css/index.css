@@ -613,55 +613,7 @@ section#get-in {
 
 
 @media screen and (max-width: 425px) {
-    nav {
-        flex-direction: column;
-    }
-    .header nav .links ul {
-        gap: 0.5rem;
-        border: none;
-    }
-    .header nav .links ul li a {
-        font-size: 12px;
-    }
-    .header nav .links {
-        flex-direction: column;
-        align-items: center;
-    }
-    .header nav .links .help img {
-        width: 29px;
-    }
-    .header nav .links .help .txt p.head {
-        font-size: 13px;
-    } 
-    .header nav .links .help .txt p.sub {
-        font-size: 13px;
-    } 
-    .mainsec .herosec {
-        flex-direction: column;
-    }
-    .mainsec .herosec .left {
-        width:50%;
-        height: 100%;
-        display: flex;
-        align-items: center;
-        flex-direction: column;
-        justify-content: center;
-        background-color: #661CE7;
-    }
-    .mainsec .herosec .left  p.head {
-        font-size: 27px;
-        line-height: 40px;
-        text-align: center;
-    }
-    .mainsec .herosec .right {
-        width:50%;
-        height: 100%;
-        display: flex;
-        align-items: center;
-        flex-direction: column;
-        justify-content: center;
-        background-color: #1E1B1B;
-    }
+   
 }
 
 @media screen and (max-width: 770px) {
