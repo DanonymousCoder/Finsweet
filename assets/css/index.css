@@ -266,7 +266,7 @@ section#serious {
     margin-bottom: 40px;
 }
 .serious .right .get-quote form input {
-    width: 424px;
+    width: 100%;
     height: 72px;
     top: 1224px;
     left: 976px;
