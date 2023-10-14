@@ -499,7 +499,7 @@ section .herosec .left .down .words p.s-ead {
     text-align: left;
 }
 
-section #get-in {
+section#get-in {
     height: 75vh;
     width: 100%;
 }
