@@ -187,7 +187,7 @@ section .herosec .left .down .words p.s-ead {
 }
 .serious {
     background-color: #E2E6E9;
-    width: 100%;
+    width: 80%;
     height: 100%;
     display: flex;
     padding-left: 60px;
