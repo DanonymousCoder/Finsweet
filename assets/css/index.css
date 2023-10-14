@@ -626,7 +626,7 @@ section#get-in {
    .links {
     flex-direction: column;
    }
-   nav .links ul {
+   .header nav .links ul {
     column-gap: 10px;
     border: none;
    }
