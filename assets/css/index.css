@@ -405,7 +405,7 @@ section#clear {
     gap: 1rem;
 }
 
-.offsec {
+section.offsec {
     height: 130vh;
     background-color: #F2F2F2;
     display: flex;
@@ -415,6 +415,8 @@ section#clear {
 .offers {
     display: flex;
     flex-direction: column;
+    align-items: center;
+    justify-content: center;
     width: 80%;
     height: 100%;
     padding-left: 60px;
