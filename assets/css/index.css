@@ -619,14 +619,14 @@ section#get-in {
     width: 100%;
     padding: 10px;
     flex-direction: column;
-    align-items: center;
-    justify-content: center;
    }
     .logo a.log {
     font-size: 20px;
    }
    .header nav .links {
     flex-direction: column;
+    justify-content: center;
+    align-items: center;
    }
    .header nav .links ul {
     column-gap: 10px;
@@ -641,6 +641,11 @@ section#get-in {
    .help img {
     width: 20px;
     height: 20px;
+   }
+   .header nav .links .help .txt {
+    display: flex;
+    flex-direction: column;
+    gap: 0.2rem;
    }
    .help .txt p {
     font-size: 12px;
