@@ -25,7 +25,6 @@ section {
 }
 section.head {
     height: 35vh;
-    justify-content: center;
 } 
 .header {
     background-color: white;
