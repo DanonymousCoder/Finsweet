@@ -46,7 +46,7 @@ section.head {
     text-decoration: none;
     color: black;
     font-size: 30px;
-    font-weight: bolder;
+    font-weight: 1000;
 }
 .header nav .links {
     display: flex;
