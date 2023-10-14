@@ -23,6 +23,9 @@ section {
     padding: 0;
     position: relative;
 }
+section.head {
+    height: 35vh;
+} 
 .header {
     background-color: white;
     width: 80%;
