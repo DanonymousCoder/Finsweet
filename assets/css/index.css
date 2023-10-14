@@ -110,7 +110,7 @@ main .hero .left p.head {
     margin-bottom: 20px;
 }
 
-main .hero .left button {
+section .hero .left button {
     font-size: 18px;
     font-weight: 600;
     line-height: 32px;
