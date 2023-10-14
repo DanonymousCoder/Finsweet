@@ -625,6 +625,7 @@ section#get-in {
     }
     .header nav .links {
         flex-direction: column;
+        align-items: center;
     }
     .header nav .links .help img {
         width: 29px;
