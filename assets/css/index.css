@@ -86,7 +86,7 @@ body {
     display: flex;
     align-self: center;
 }
-main {
+section {
     margin-top: 50px;
     display: flex;
     align-items: center;
