@@ -93,6 +93,11 @@ body {
     align-items: center;
     justify-content: center;
 }
+.mainsec .hero {
+    width: 80%;
+    height: 100%;
+    display: flex;
+}
 .serious {
     background-color: #E2E6E9;
     width: 100vw;
