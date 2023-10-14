@@ -49,12 +49,15 @@ section.head {
 .header nav .links {
     display: flex;
     gap: 0.5rem;
+    
 }
 .header nav .links ul {
     display: flex;
     gap: 1.5rem;
     align-items: center;
     text-align: center;
+    padding-right: 10px;
+    border-right: 0.1px solid grey;
 }
 .header nav .links ul li {
     list-style-type: none;
