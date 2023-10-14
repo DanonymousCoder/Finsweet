@@ -300,7 +300,7 @@ section .herosec .left .down .words p.s-ead {
     display: flex;
     width: 80%;
     height: 100%;
-    gap: 5.5rem;
+    gap: 10rem;
     padding-left: 60px;
     padding-top: 90px;
     align-items: center;
