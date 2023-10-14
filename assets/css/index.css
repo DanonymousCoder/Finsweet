@@ -92,7 +92,7 @@ main {
     align-items: center;
     justify-content: center;
 }
-main .hero {
+section .hero {
     display: flex;
     align-items: center;
     position: relative;
