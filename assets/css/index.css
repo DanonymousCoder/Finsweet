@@ -132,12 +132,12 @@ section .hero .left .down {
     align-items: center;
     gap: 0.5rem;
 }
-section .hero .left .down img {
+section .herosec .left .down img {
     height: 33px;
     display: flex;
     align-items: center;
 }
-section .hero .left .down .words {
+section .herosec .left .down .words {
     display: flex;
     flex-direction: column;
     gap: 1px;
