@@ -98,6 +98,12 @@ body {
     height: 100%;
     display: flex;
 }
+.mainsec .hero .left {
+    width: 50%;
+    height: 100%;
+    background-color: #1E1B1B;
+}
+
 .serious {
     background-color: #E2E6E9;
     width: 100vw;
