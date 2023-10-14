@@ -107,6 +107,9 @@ body {
     width: 50%;
     height: 100%;
     background-color: #661CE7;
+    background-image: url("../img/Header\ Image.png");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 .serious {
     background-color: #E2E6E9;
