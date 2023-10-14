@@ -635,6 +635,9 @@ section#get-in {
    .header nav .links ul li a {
     font-size: 12px;
    }
+   .header nav .links .help {
+    gap: 0.5rem;
+   }
    .help img {
     width: 20px;
     height: 20px;
