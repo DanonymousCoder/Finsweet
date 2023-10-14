@@ -134,7 +134,7 @@ section .hero .left .down img {
     display: flex;
     align-items: center;
 }
-main .hero .left .down .words {
+section .hero .left .down .words {
     display: flex;
     flex-direction: column;
     gap: 1px;
