@@ -511,7 +511,7 @@ section.offsec {
     gap: 0.5rem;
     justify-content: flex-end;
     align-items: center;
-    
+    width: 100%;
 }
 .learn-at-serve {
     font-family: "Manrope", sans-serif;
