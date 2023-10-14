@@ -19,10 +19,9 @@ body {
 }
 .header {
     background-color: white;
-    padding-left: 50px;
-    padding-right: 50px;
     width: 100vw;
     position: fixed;
+    right: 10%;
 }
 .header nav {
     display: flex;
