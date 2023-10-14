@@ -308,7 +308,6 @@ section .herosec .left .down .words p.s-ead {
 .clear-process .left {
     width: 50%;
     height: 100%;
-    background-color: black;
 }
 .clear-process .left h2 {
     font-family: "Manrope", sans-serif;
