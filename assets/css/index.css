@@ -86,76 +86,7 @@ body {
     display: flex;
     align-self: center;
 }
-section {
-    width: 100%;
-    height: 80vh;
-    display: flex;
-    justify-content: center;
-}
-section .hero {
-    width: 80%;
-    background-color: #661CE7;
-}
-section .hero .left {
-    width: 50%;
-}
-section .hero .left p.head {
-    font-size: 50px;
-    font-weight: 800;
-    line-height: 84px;
-    letter-spacing: -0.03em;
-    text-align: left;
-    margin-bottom: 20px;
-}
 
-section .hero .left button {
-    font-size: 18px;
-    font-weight: 600;
-    line-height: 32px;
-    letter-spacing: 0em;
-    text-align: left;
-    color: #ffffff;
-   background-color:  #FF6433;
-   padding: 16px 40px 16px 40px;
-    border-radius: 12px;
-    border: none;
-    margin-bottom: 60px;
-}
-
-section .hero .left .down {
-    display: flex;
-    align-items: center;
-    gap: 0.5rem;
-}
-section .hero .left .down img {
-    height: 33px;
-    display: flex;
-    align-items: center;
-}
-section .hero .left .down .words {
-    display: flex;
-    flex-direction: column;
-    gap: 1px;
-}
-section .hero .left .down .words p.ead {
-    font-size: 15px;
-    font-weight: 500;
-    line-height: 24px;
-    letter-spacing: 0em;
-    text-align: left;
-    color: grey;
-}
-section .hero .left .down .words p.s-ead {
-    font-size: 18px;
-    font-weight: 600;
-    line-height: 32px;
-    letter-spacing: 0em;
-    text-align: left;
-    color: black;
-}
-header section .hero .right {
-    width: 40%;
-}
 .serious {
     background-color: #E2E6E9;
     width: 100vw;
