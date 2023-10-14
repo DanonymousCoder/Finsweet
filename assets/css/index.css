@@ -615,7 +615,9 @@ section#get-in {
 
 
 @media screen and (max-width: 425px) {
-   
+   .logo a.log {
+    font-size: 18px;
+   }
 }
 
 @media screen and (max-width: 770px) {
