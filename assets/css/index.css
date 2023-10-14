@@ -310,7 +310,9 @@ section#serious {
     letter-spacing: 0em;
     text-align: left;
 }
-
+section#clear {
+    padding-bottom: 90px;
+}
 .clear-process {
     display: flex;
     width: 80%;
