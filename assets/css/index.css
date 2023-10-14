@@ -652,14 +652,14 @@ section#get-in {
    }
 }
 
-@media screen and (max-width: 770px) {
+@media screen and (max-width: 820px) {
     .header nav {
         width: 100%;
         padding: 10px;
         flex-direction: column;
        }
         .logo a.log {
-        font-size: 20px;
+        font-size: 30px;
        }
        .header nav .links {
         flex-direction: column;
