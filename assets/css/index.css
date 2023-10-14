@@ -627,9 +627,9 @@ section#get-in {
     flex-direction: column;
    }
    nav .links ul {
-    column-gap: 20px;
+    column-gap: 10px;
    }
-   nav .links ul li {
+   nav .links ul li a {
     font-size: 12px;
    }
 }
