@@ -633,7 +633,7 @@ section#get-in {
     border: none;
    }
    .header nav .links ul li a {
-    font-size: 12px;
+    font-size: 10px;
    }
    .header nav .links .help {
     gap: 0.5rem;
