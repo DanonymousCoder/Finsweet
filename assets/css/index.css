@@ -616,7 +616,7 @@ section#get-in {
     .header nav .links ul {
         gap: 0.5rem;
     }
-    .header nav .links ul li {
+    .header nav .links ul li a {
         font-size: 12px;
     }
 }
