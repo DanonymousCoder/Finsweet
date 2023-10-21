@@ -659,7 +659,6 @@ section#get-in {
    .mainsec .herosec {
     flex-direction: column;
     background-color: #661CE7;
-    height: 60vh;
    }
 }
 
