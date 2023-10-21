@@ -636,8 +636,8 @@ section#get-in {
     border: none;
    }
    .header nav .links ul li a  {
-    font-size: 0.1px;
-    font-weight: 200;
+    font-size: 0.000000000005px;
+    font-weight: 30;
    }
    .header nav .links .help {
     gap: 0.5rem;
