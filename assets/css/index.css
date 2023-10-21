@@ -640,6 +640,7 @@ section#get-in {
    }
    .header nav .links .help {
     gap: 0.5rem;
+    margin-top: 15px;
    }
    .help img {
     width: 20px;
