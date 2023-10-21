@@ -627,7 +627,7 @@ section#get-in {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    margin-top: 15px;
+    margin-top: 10px;
    }
    .header nav .links ul {
     column-gap: 2px;
@@ -641,7 +641,7 @@ section#get-in {
    }
    .header nav .links .help {
     gap: 0.5rem;
-    margin-top: 15px;
+    margin-top: 10px;
    }
    .help img {
     width: 20px;
