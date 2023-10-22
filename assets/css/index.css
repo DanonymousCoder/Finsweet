@@ -956,6 +956,7 @@ section#get-in {
     padding: 0px 20px;
     width: 100vw;
     margin-top: 7vh;
+    height: 60vh;
    }
    .mainsec .herosec {
     flex-direction: column-reverse;
