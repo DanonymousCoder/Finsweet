@@ -694,6 +694,9 @@ section#get-in {
     padding: 10px 20px 10px 20px;
     margin-bottom: 30px;
    }
+   section .herosec .left .down {
+    align-items: center;
+   }
    section .herosec .left .down .words p.ead {
     font-size: 18px;
    }
