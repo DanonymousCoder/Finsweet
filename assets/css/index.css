@@ -916,10 +916,10 @@ section#get-in {
     }
     .serious .right h3 {
         font-size: 58px;
-        text-align: center;
+        text-align: left;
     }
     .serious .right .get-quote form a.quote {
-        padding: 20px 40px 20px 40px;
+        padding: 30px 60px 30px 60px;
         font-size: 25px;
     }
 }
