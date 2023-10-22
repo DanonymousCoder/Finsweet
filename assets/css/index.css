@@ -881,9 +881,13 @@ section#get-in {
     .stats {
         width: 100%;
         flex-wrap: wrap;
-        gap: 15px;
+        gap: 25px;
         padding: 0 20px;
         flex-direction: column;
+    }
+    .stats .prof1,
+    .prof2 {
+        gap: 30px;
     }
     .stats .prof .hd {
         font-size: 38px;
