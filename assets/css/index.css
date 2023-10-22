@@ -422,7 +422,9 @@ section#clear {
     flex-direction: column;
     align-items: center;
 }
-
+.clear-process .zero .img2 {
+    padding-bottom: 40px;
+}
 section.offsec {
     height: 150vh;
     background-color: #F2F2F2;
