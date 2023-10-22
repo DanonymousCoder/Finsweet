@@ -731,6 +731,8 @@ section#get-in {
     }
     .serious .left h2 {
         font-size: 38px;
+        text-align: center;
+        height: 54px;
     }
     .serious .right {
         width: 100%;
