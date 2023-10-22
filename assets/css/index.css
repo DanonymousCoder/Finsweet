@@ -1196,14 +1196,11 @@ section#get-in {
         flex-direction: column;
         text-align: left;
     }
-    .stats .prof1,
-    .prof2 {
-       
-        text-align: left;
-        align-items: flex-start;
+    .stats .prof1 {
+        gap: 15rem;
     }
-    .stub {
-        
+    .stats .prof1 {
+        gap: 13rem;
     }
     .stats .prof .hd {
         font-size: 56px;
