@@ -1131,4 +1131,76 @@ section#get-in {
         padding: 30px 60px 30px 60px;
         font-size: 25px;
     }
+    .offers {
+        width: 100%;
+    }
+    .offers .lt {
+        font-size: 16px;
+    }
+    .offers h2 {
+        font-size: 28px; 
+        line-height: 40px;
+        width: 100%;
+        padding: 0 10px;
+    }
+    .offers .offs .off-box  {
+        width: 170px;
+        height: 136px;
+    }
+    .offers .offs .off-box2 p.sbx {
+        font-size: 18px;
+    }
+    .offers .offs .off-box p.sbx {
+        font-size: 18px;
+    }
+    .serve-arr {
+        margin-top: 6.5rem;
+        padding-right: 10px;
+    }
+    .learn-at-serve {
+        font-size: 16px;
+    }
+    .containert {
+        flex-direction: column;
+    }
+    .left-imag {
+        width: 100%;
+        height: 50vh;
+    }
+    .right-imag {
+        width: 100%;
+        height: 50vh;
+    }
+    .cta {
+        padding: 0 15px;
+    }
+    .cta h3 {
+        font-size: 15px;
+    }
+    .cta .cta-btn {
+        padding: 15px 40px 15px 40px;
+        font-size: 15px;
+        display: flex;
+        justify-content: flex-start;
+        align-self: flex-start;
+        padding-left: 5px;
+    }
+    .stats {
+        width: 100%;
+        flex-wrap: wrap;
+        gap: 15px;
+        padding: 0 20px;
+        flex-direction: column;
+    }
+    .stats .prof1,
+    .prof2 {
+        gap: 35px;
+    }
+    .stats .prof .hd {
+        font-size: 38px;
+    }
+    .stats .prof .sb {
+        font-size: 15px;
+        width: 100%;
+    }
 }
