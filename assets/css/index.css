@@ -481,7 +481,7 @@ section.offsec {
 }
 
 .offers .offs .off-box {
-    width: 250px;
+    width: 265px;
     height: 216px;
     background-color: white;
     display: flex;
@@ -491,7 +491,7 @@ section.offsec {
     gap: 0.5rem;
 }
 .offers .offs .off-box2 {
-    width: 250px;
+    width: 265px;
     height: 216px;
     background-color: #FF6433;
     display: flex;
