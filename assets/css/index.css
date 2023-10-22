@@ -927,4 +927,7 @@ section#get-in {
     .serious .know-arrow img {
         height:25px;
     }
+    .clear-process {
+        flex-direction: column;
+    }
 }
