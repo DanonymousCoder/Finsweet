@@ -840,6 +840,7 @@ section#get-in {
     }
     .serve-arr {
         bottom: 0;
+        position: absolute;
     }
 }
 
