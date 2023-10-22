@@ -673,6 +673,10 @@ section#get-in {
     .container {
         width: 100vw;
     }
+    .header {
+        position: fixed;
+        z-index: 100;
+    }
     .header nav {
         width: 100%;
         padding: 10px;
