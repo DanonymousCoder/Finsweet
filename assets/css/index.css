@@ -651,7 +651,7 @@ section#get-in {
     font-weight: 150;
    }
    .mainsec {
-  
+    margin-top: 70px;
    }
    .mainsec .herosec {
     flex-direction: column;
@@ -700,6 +700,6 @@ section#get-in {
         font-weight: 150;
        }
        .mainsec {
-        margin-top: 350px;
+        margin-top: 70px;
        }
 }
