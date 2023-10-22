@@ -1198,11 +1198,12 @@ section#get-in {
     }
     .stats .prof1,
     .prof2 {
-        gap: 170px;
+       
         text-align: left;
+        align-items: flex-start;
     }
     .stub {
-        padding-right: 80px;
+        
     }
     .stats .prof .hd {
         font-size: 56px;
