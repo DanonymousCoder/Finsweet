@@ -937,4 +937,12 @@ section#get-in {
         height: 100%;
         padding: 10px 10px;
     }
+    .clear-process .left {
+        width: 100%;
+        height: 50%;
+    }
+    .clear-process .right {
+        width: 100%;
+        height: 50%;
+    }
 }
