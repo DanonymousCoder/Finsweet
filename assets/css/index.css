@@ -713,6 +713,7 @@ section#get-in {
     padding: 1px;
    }
     .serious {
+        display: flex;
         flex-direction: column;
     }
 }
