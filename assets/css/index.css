@@ -891,7 +891,23 @@ section#get-in {
         text-align: left;
         margin-bottom: 65px;
     }
-    
+    .hd {
+        gap: 1.5rem;
+    }
+    .hd img {
+        height: 60px;
+    }
+    .serious .left .hd p {
+        font-size: 28px;
+    }
+    .serious .left .feature {
+        margin-bottom: 30px;
+    }
+    .serious .left .feature p.sub {
+        font-size: 23px;
+        height: 35px;
+        padding-left: 54px;
+    }    
     .serious .right {
         background-color: #661CE7;
         width: 100%;
