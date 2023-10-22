@@ -827,7 +827,7 @@ section#get-in {
     font-weight: bolder;
    }
    .mainsec {
-    padding: 0px 10px;
+    padding: 0px 20px;
     width: 100vw;
     margin-top: 7vh;
    }
@@ -877,7 +877,7 @@ section#get-in {
     height: 100%;
     justify-content: center;
     align-items: center;
-    padding: 20px;
+    padding: 0px 20px;
     gap: 0;
     }
     .serious .left {
