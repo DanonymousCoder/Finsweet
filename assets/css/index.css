@@ -885,15 +885,12 @@ section#get-in {
         padding: 0 20px;
         flex-direction: column;
     }
-    .stats .prof2 {
-        padding-right: 30px;
-    }
     .stats .prof .hd {
         font-size: 38px;
     }
     .stats .prof .sb {
         font-size: 15px;
-        width: 100px;
+        width: 100%;
     }
 }
 
