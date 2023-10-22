@@ -799,8 +799,9 @@ section#get-in {
     align-items: center;
    }
    section .herosec .left .down .words p.ead {
-    font-size: 18px;
+    font-size: 24px;
     padding-top: 30px;
+    color: rgb(255, 252, 255)d6;
    }
    section .herosec .left .down .words p.s-ead {
     color: white;
