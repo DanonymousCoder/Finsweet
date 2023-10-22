@@ -802,6 +802,9 @@ section#get-in {
     font-size: 18px;
     padding-top: 30px;
    }
+   section .herosec .left .down .words p.s-ead {
+    color: white;
+   }
    .mainsec .herosec .right {
     width: 100%;
     height: 100%;
