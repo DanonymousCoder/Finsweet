@@ -869,7 +869,8 @@ section#get-in {
     .cta .cta-btn {
         padding: 15px 40px 15px 40px;
         font-size: 15px;
-        align-self: flex-start;
+        display: flex;
+        justify-content: flex-start;
     }
 }
 
