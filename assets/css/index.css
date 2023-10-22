@@ -682,9 +682,11 @@ section#get-in {
        .header nav .links ul {
         column-gap: 15px;
         border: none;
+        align-items: center;
+        justify-content: center;
        }
        .header nav .links ul li a {
-        font-size: 29px;
+        font-size: 10px;
        }
        .header nav .links .help {
         gap: 0.5rem;
