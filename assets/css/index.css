@@ -823,6 +823,10 @@ section#get-in {
     .offers {
         width: 100%;
     }
+    .offers h2 {
+        font-size: 30; 
+        line-height: 40px;
+    }
 }
 
 @media screen and (min-width: 425px) and (max-width: 840px) {
