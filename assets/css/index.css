@@ -1194,13 +1194,15 @@ section#get-in {
         gap: 25px;
         padding: 0 20px;
         flex-direction: column;
+        text-align: left;
     }
     .stats .prof1,
     .prof2 {
         gap: 170px;
+        text-align: left;
     }
     .stub {
-        padding-right: 10px;
+        padding-right: 80px;
     }
     .stats .prof .hd {
         font-size: 56px;
