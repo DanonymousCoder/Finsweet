@@ -871,6 +871,7 @@ section#get-in {
         font-size: 15px;
         display: flex;
         justify-content: flex-start;
+        align-self: flex-start;
     }
 }
 
