@@ -470,7 +470,7 @@ section.offsec {
     margin-bottom: 70px;
 }
 .offers .offs {
-    width: 1258px;
+    width: 100%;
     height: 442px;
     display: flex;
     flex-wrap: wrap;
