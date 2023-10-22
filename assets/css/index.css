@@ -744,6 +744,10 @@ section#get-in {
     .serious .left .feature {
         margin-bottom: 15px;
     }
+    .serious .left .feature p.sub {
+        font-size: 13px;
+        height: 35px;
+    }
     .serious .right {
         width: 100%;
         height: 50%;
