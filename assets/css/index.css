@@ -783,10 +783,11 @@ section#get-in {
     z-index: 500;
    }
    section .herosec .left p.head {
-    font-size: 25px;
+    font-size: 45px;
     text-align: center;
     line-height: 50px;
     margin-bottom: 15px;
+    color: white;
    }
    section .herosec .left button {
     align-self: center;
