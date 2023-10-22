@@ -804,6 +804,9 @@ section#get-in {
     .clear-process .zero img {
         height: 30px;
     }
+    .clear-process .right .zero .txt p.hx {
+        font-size: 22px;
+    }
 }
 
 @media screen and (min-width: 425px) and (max-width: 840px) {
