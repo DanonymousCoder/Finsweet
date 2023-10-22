@@ -736,11 +736,11 @@ section#get-in {
         line-height: 54px;
         width: 300px;
         height: 60px;
-        margin-bottom: 10px;
+        margin-bottom: 25px;
     }
     .hd {
-        padding: 10px 0;
-        gap: 0.7rem;
+        padding: 15px 0px;
+        gap: 1rem;
     }
     .serious .right {
         width: 100%;
