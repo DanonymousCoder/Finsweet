@@ -1029,6 +1029,9 @@ section#get-in {
     .clear-process .left .learn {
         margin-top: 190px;
     }
+    .clear-process .zero {
+        gap: 2rem;
+    }
     .clear-process .zero img {
         height: 80px;
     }
