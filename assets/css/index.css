@@ -23,7 +23,7 @@ section {
     padding: 0;
 }
 section.head {
-    min-height: 3vh;
+    min-height: 1vh;
     width: 100%;
 } 
 .header {
