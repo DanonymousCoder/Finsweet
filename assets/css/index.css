@@ -670,6 +670,7 @@ section#get-in {
    }
    .mainsec {
     padding: 0px 10px;
+    width: 100vw;
    }
    .mainsec .herosec {
     flex-direction: column-reverse;
