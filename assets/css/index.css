@@ -477,11 +477,12 @@ section.offsec {
     align-items: center;
     justify-content: center;
     gap: 0.5rem;
+    column-gap: 0.5rem;
 }
 
 .offers .offs .off-box {
-    width: 250px;
-    height: 186px;
+    width: 270px;
+    height: 136px;
     background-color: white;
     display: flex;
     flex-direction: column;
