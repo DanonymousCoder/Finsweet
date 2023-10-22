@@ -712,6 +712,9 @@ section#get-in {
     height: 50%;
     padding: 1px;
    }
+    .serious {
+        flex-direction: column;
+    }
 }
 
 @media screen and (min-width: 425px) and (max-width: 840px) {
