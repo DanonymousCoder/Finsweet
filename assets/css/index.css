@@ -728,7 +728,6 @@ section#get-in {
     .serious .left {
         width: 100%;
         height: 50%;
-        background-color: #FF6433;
         justify-content: center;
     }
     .serious .left h2 {
@@ -759,7 +758,6 @@ section#get-in {
     .serious .right {
         width: 100%;
         height: 50%;
-        background-color: #661CE7;
     }
     .serious .right h3 {
         font-size: 30px;
