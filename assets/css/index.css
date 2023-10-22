@@ -613,7 +613,7 @@ section#get-in {
 
 
 
-@media screen and (max-width: 405px) {
+@media screen and (min-width: 300px) and (max-width: 405px) {
     .container {
         width: 100vw;
     }
