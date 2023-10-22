@@ -820,6 +820,9 @@ section#get-in {
         padding: 20px 40px 20px 40px;
         font-size: 15px;
     }
+    .offers {
+        width: 100%;
+    }
 }
 
 @media screen and (min-width: 425px) and (max-width: 840px) {
