@@ -823,6 +823,9 @@ section#get-in {
     .offers {
         width: 100%;
     }
+    .offers .lt {
+        font-size: 16px;
+    }
     .offers h2 {
         font-size: 28px; 
         line-height: 40px;
