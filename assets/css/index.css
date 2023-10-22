@@ -1199,6 +1199,9 @@ section#get-in {
     .prof2 {
         gap: 170px;
     }
+    .stub {
+        padding-right: 10px;
+    }
     .stats .prof .hd {
         font-size: 56px;
     }
