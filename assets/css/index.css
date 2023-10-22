@@ -426,7 +426,7 @@ section#clear {
     padding-bottom: 50px;
 }
 section.offsec {
-    height: 170vh;
+    height: 180vh;
     background-color: #F2F2F2;
     display: flex;
     flex-direction: column;
@@ -522,6 +522,7 @@ section.offsec {
 .serve-arr {
     display: flex;
     gap: 0.5rem;
+    align-self: flex-end;
     justify-content: flex-end;
     align-items: center;
     width: 100%;
