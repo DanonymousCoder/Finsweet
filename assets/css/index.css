@@ -633,13 +633,13 @@ section#get-in {
     margin-top: 10px;
    }
    .header nav .links ul {
-    column-gap: 5px;
+    column-gap: 7px;
     flex-wrap: nowrap;
     justify-content: center;
     border: none;
    }
    .header nav .links ul li a {
-    font-size: 13px;
+    font-size: 14px;
    }
    .header nav .links .help {
     gap: 0.5rem;
