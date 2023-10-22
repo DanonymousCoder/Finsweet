@@ -881,7 +881,7 @@ section#get-in {
     .stats {
         width: 100%;
         flex-wrap: wrap;
-        gap: 10px;
+        gap: 15px;
         padding: 0 20px;
         flex-direction: column;
     }
