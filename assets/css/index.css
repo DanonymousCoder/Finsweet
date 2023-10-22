@@ -666,7 +666,7 @@ section#get-in {
    }
    .header nav .links .help .txt .sub {
     font-size: 17px;
-    font-weight: 450;
+    font-weight: bolder;
    }
    .mainsec .herosec {
     flex-direction: column;
