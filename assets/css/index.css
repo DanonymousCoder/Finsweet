@@ -635,6 +635,8 @@ section#get-in {
    .header nav .links ul {
     column-gap: 9px;
     flex-wrap: nowrap;
+    align-items: center;
+    text-align: center;
     justify-content: center;
     border: none;
    }
