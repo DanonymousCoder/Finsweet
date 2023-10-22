@@ -792,7 +792,7 @@ section#get-in {
    section .herosec .left button {
     align-self: center;
     font-size: 28px;
-    padding: 20px 40px 20px 40px;
+    padding: 25px 40px 25px 40px;
     margin-bottom: 30px;
    }
    section .herosec .left .down {
