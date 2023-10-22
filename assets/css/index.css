@@ -801,6 +801,9 @@ section#get-in {
     .clear-process .left .learn {
         margin-top: 20px;
     }
+    .clear-process .zero img {
+        height: 30px;
+    }
 }
 
 @media screen and (min-width: 425px) and (max-width: 840px) {
