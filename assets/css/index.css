@@ -537,7 +537,7 @@ section.offsec {
 }
 
 section#get-in {
-    height: 55vh;
+    min-height: 55vh;
     width: 100%;
 }
 .containert {
@@ -854,11 +854,11 @@ section#get-in {
     }
     .left-imag {
         width: 100%;
-        height: 30vh;
+        height: 40vh;
     }
     .right-imag {
         width: 100%;
-        height: 30vh;
+        height: 40vh;
     }
 }
 
