@@ -587,7 +587,7 @@ section#get-in {
 .stats {
     background-color: #F2F2F2;
     width: 100%;
-    height: 210px;
+    height: 410px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -878,6 +878,12 @@ section#get-in {
         width: 100%;
         flex-wrap: wrap;
         gap: 1.5rem;
+    }
+    .stats .prof .hd {
+        font-size: 48px;
+    }
+    .stats .prof .sb {
+        font-size: 20px;
     }
 }
 
