@@ -633,6 +633,9 @@ section#get-in {
     justify-content: center;
     border: none;
    }
+   .header nav .links ul li a {
+    font-size: 10px;
+   }
    .header nav .links .help {
     gap: 0.5rem;
     margin-top: 10px;
@@ -681,7 +684,7 @@ section#get-in {
         padding: 0 10px;
        }
        .header nav .links ul li a {
-        font-size: 10px;
+        font-size: 13px;
        }
        .header nav .links .help {
         gap: 0.5rem;
