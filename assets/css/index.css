@@ -1036,9 +1036,6 @@ section#get-in {
         font-size: 48px;
         width: 100%;
     }
-    * {
-        border: 3px dotted red;
-    }
     .clear-process .right .zero .txt p.bx {
         font-size: 30px;
         padding-top: 30px;
