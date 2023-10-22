@@ -668,9 +668,11 @@ section#get-in {
     font-size: 17px;
     font-weight: bolder;
    }
+   .mainsec {
+    padding: 0px 10px;
+   }
    .mainsec .herosec {
     flex-direction: column-reverse;
-    padding: 0px 10px;
     background-color: #661CE7;
    }
    .mainsec .herosec .left {
