@@ -893,6 +893,7 @@ section#get-in {
     }
     .stats .prof .sb {
         font-size: 18px;
+        width: 50px;
     }
 }
 
