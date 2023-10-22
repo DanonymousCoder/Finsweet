@@ -1132,7 +1132,7 @@ section#get-in {
         font-size: 25px;
     }
     section.offsec {
-        height: 50vh;
+        max-height: 80vh;
     }
     .offers {
         width: 100%;
