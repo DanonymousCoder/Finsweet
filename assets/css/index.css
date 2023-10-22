@@ -633,7 +633,7 @@ section#get-in {
     margin-top: 10px;
    }
    .header nav .links ul {
-    column-gap: 7px;
+    column-gap: 9px;
     flex-wrap: nowrap;
     justify-content: center;
     border: none;
