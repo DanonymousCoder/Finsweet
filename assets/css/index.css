@@ -674,7 +674,7 @@ section#get-in {
    }
    .mainsec .herosec .left {
     width: 100%;
-    text-align: center;
+    align-items: center;
    }
    section .herosec .left p.head {
     font-size: 30px;
