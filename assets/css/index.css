@@ -790,7 +790,6 @@ section#get-in {
     .clear-process .left h2 {
         font-size: 24px;
         line-height: 50px;
-        padding: 0px 10px;
     }
     .clear-process .left p.sb {
         font-size: 12px;
@@ -828,6 +827,7 @@ section#get-in {
         font-size: 30px; 
         line-height: 40px;
         width: 100%;
+        padding: 0 10px;
     }
     .offers .offs .off-box  {
         width: 170px;
