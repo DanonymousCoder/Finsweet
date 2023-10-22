@@ -426,7 +426,7 @@ section#clear {
     padding-bottom: 50px;
 }
 section.offsec {
-    height: 150vh;
+    height: 160vh;
     background-color: #F2F2F2;
     display: flex;
     flex-direction: column;
