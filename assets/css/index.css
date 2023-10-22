@@ -758,7 +758,7 @@ section#get-in {
    .header nav .links .help .txt {
     display: flex;
     flex-direction: column;
-    column-gap: 2px;
+    column-gap: 5px;
    }
    .header nav .links .help .txt .head {
     font-size: 27px;
