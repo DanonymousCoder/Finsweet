@@ -797,6 +797,9 @@ section#get-in {
         width: 100%;
         line-height: 20px;
     }
+    .clear-process .left .learn {
+        margin-top: 20px;
+    }
 }
 
 @media screen and (min-width: 425px) and (max-width: 840px) {
