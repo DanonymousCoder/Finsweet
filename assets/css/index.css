@@ -998,4 +998,57 @@ section#get-in {
         width: 100%;
         height: 50%;
     }
+    #clear {
+        min-height: 120vh;
+        width: 100%;
+    }
+    .clear-process {
+        flex-direction: column;
+        width: 100%;
+        height: 100%;
+        padding: 10px 10px;
+        gap: 10px;
+    }
+    .clear-process .left {
+        width: 100%;
+        height: 50%;
+    }
+    .clear-process .right {
+        width: 100%;
+        height: 50%;
+        gap: 0.5rem;
+    }
+    .clear-process .left h2 {
+        font-size: 44px;
+        line-height: 50px;
+    }
+    .clear-process .left p.sb {
+        font-size: 12px;
+        width: 100%;
+        line-height: 20px;
+    }
+    .clear-process .left .learn {
+        margin-top: 20px;
+    }
+    .clear-process .zero img {
+        height: 30px;
+    }
+    .clear-process .right .zero .txt p.hx {
+        font-size: 18px;
+    }
+    .clear-process .right .zero .txt p.bx {
+        font-size: 16px;
+        padding-top: 10px;
+    }
+    .clear-process .zero .img {
+        padding-bottom: 25px;
+        gap: 1.5rem;
+    }
+    .clear-process .zero .img2 {
+        padding-bottom: 70px;
+    }
+    .clear-process .left .learn a.more-learn {
+        padding: 20px 40px 20px 40px;
+        font-size: 15px;
+    }
 }
