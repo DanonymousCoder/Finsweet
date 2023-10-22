@@ -999,6 +999,8 @@ section#get-in {
    }
    .mainsec .herosec .right .right-img {
     background-image: url("../Image2.png");
+    background-size: cover;
+    background-repeat: no-repeat;
    }
    .serious {
     display: flex;
