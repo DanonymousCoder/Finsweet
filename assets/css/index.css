@@ -675,10 +675,12 @@ section#get-in {
    .mainsec .herosec .left {
     width: 100%;
     align-items: center;
+    display: flex;
    }
    section .herosec .left p.head {
     font-size: 30px;
     text-align: center;
+    line-height: 50px;
    }
    .mainsec .herosec .right {
     width: 100%;
