@@ -681,7 +681,6 @@ section#get-in {
    }
    .mainsec .herosec {
     flex-direction: column-reverse;
-    background-color: #661CE7;
    }
    .mainsec .herosec .left {
     width: 100%;
