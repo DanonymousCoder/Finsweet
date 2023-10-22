@@ -596,6 +596,10 @@ section#get-in {
 .stats .prof {
     text-align: left;
 }
+.prof1, 
+.prof2 {
+    display: flexa;
+}
 .stats .prof .hd {
     font-size: 58px;
     font-weight: 800;
@@ -879,6 +883,7 @@ section#get-in {
         flex-wrap: wrap;
         gap: 1rem;
         padding: 0 10px;
+        flex-direction: column;
     }
     .stats .prof .hd {
         font-size: 38px;
