@@ -1033,7 +1033,7 @@ section#get-in {
         height: 80px;
     }
     .clear-process .right .zero .txt p.hx {
-        font-size: 38px;
+        font-size: 48px;
         width: 100%;
     }
     * {
@@ -1045,7 +1045,7 @@ section#get-in {
         width: 400px;
     }
     .clear-process .zero .img {
-        padding-bottom: 25px;
+        padding-top: 10px;
         gap: 1.5rem;
     }
     .clear-process .zero .img2 {
