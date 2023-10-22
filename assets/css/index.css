@@ -768,6 +768,10 @@ section#get-in {
         height: 67px;
         width: 320px;
     }
+    .serious .right .get-quote form .post-btn {
+        font-size: 15px;
+        padding: 10px 20px 10px 20px;
+    }
 }
 
 @media screen and (min-width: 425px) and (max-width: 840px) {
