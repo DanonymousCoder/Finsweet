@@ -880,10 +880,10 @@ section#get-in {
         gap: 1rem;
     }
     .stats .prof .hd {
-        font-size: 48px;
+        font-size: 38px;
     }
     .stats .prof .sb {
-        font-size: 20px;
+        font-size: 18px;
     }
 }
 
