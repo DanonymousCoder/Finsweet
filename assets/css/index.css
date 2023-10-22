@@ -889,24 +889,24 @@ section#get-in {
     .serious .left h2 {
         font-size: 58px;
         text-align: left;
-        margin-bottom: 65px;
+        margin-bottom: 55px;
     }
     .hd {
         gap: 1.5rem;
     }
     .hd img {
-        height: 60px;
+        height: 70px;
     }
     .serious .left .hd p {
-        font-size: 28px;
+        font-size: 38px;
     }
     .serious .left .feature {
-        margin-bottom: 70px;
+        margin-bottom: 60px;
     }
     .serious .left .feature p.sub {
         font-size: 23px;
         width: 500px;
-        padding-left: 84px;
+        padding-left: 94px;
     }    
     .serious .right {
         background-color: #661CE7;
