@@ -666,6 +666,10 @@ section#get-in {
 }
 
 @media screen and (max-width: 840px) {
+    body {
+        margin: 0; /* Add this to remove the default margin */
+        overflow-x: hidden; /* This will hide horizontal overflow */
+    }
     .container {
         width: 100vw;
     }
