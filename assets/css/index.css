@@ -727,7 +727,7 @@ section#get-in {
     .serious .left {
         width: 100%;
         height: 50%;
-        background-color: #1E1B1B;
+        background-color: #FF6433;
         justify-content: center;
     }
     .serious .left h2 {
@@ -739,8 +739,8 @@ section#get-in {
         margin-bottom: 10px;
     }
     .hd {
-        padding: 5px 0;
-        gap: 0.5rem;
+        padding: 10px 0;
+        gap: 0.7rem;
     }
     .serious .right {
         width: 100%;
