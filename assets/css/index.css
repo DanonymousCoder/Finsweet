@@ -878,6 +878,7 @@ section#get-in {
         width: 100%;
         flex-wrap: wrap;
         gap: 1rem;
+        padding: 0 10px;
     }
     .stats .prof .hd {
         font-size: 38px;
