@@ -716,10 +716,15 @@ section#get-in {
         display: flex;
         flex-direction: column;
     }
-    .serious .left,
-    .right {
+    .serious .left {
         width: 100%;
         height: 50%;
+        background-color: #1E1B1B;
+    }
+    .serious .right {
+        width: 100%;
+        height: 50%;
+        background-color: #661CE7;
     }
 }
 
