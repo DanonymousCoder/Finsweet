@@ -783,9 +783,9 @@ section#get-in {
     z-index: 500;
    }
    section .herosec .left p.head {
-    font-size: 45px;
+    font-size: 55px;
     text-align: center;
-    line-height: 50px;
+    line-height: 75px;
     margin-bottom: 15px;
     color: white;
    }
