@@ -752,8 +752,8 @@ section#get-in {
     margin-top: 10px;
    }
    .help img {
-    width: 28px;
-    height: 28px;
+    width: 34px;
+    height: 34px;
    }
    .header nav .links .help .txt {
     display: flex;
@@ -761,11 +761,11 @@ section#get-in {
     column-gap: 2px;
    }
    .header nav .links .help .txt .head {
-    font-size: 17px;
+    font-size: 27px;
     font-weight: 150;
    }
    .header nav .links .help .txt .sub {
-    font-size: 17px;
+    font-size: 27px;
     font-weight: bolder;
    }
    .mainsec {
