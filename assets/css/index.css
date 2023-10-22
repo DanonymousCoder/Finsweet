@@ -1131,6 +1131,9 @@ section#get-in {
         padding: 30px 60px 30px 60px;
         font-size: 25px;
     }
+    section.offsec {
+        min-height: 100vh;
+    }
     .offers {
         width: 100%;
     }
