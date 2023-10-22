@@ -669,11 +669,15 @@ section#get-in {
     font-weight: bolder;
    }
    .mainsec .herosec {
-    flex-direction: column;
+    flex-direction: column-reverse;
     background-color: #661CE7;
    }
    .mainsec .herosec .left {
     width: 100%;
+    text-align: center;
+   }
+   section .herosec .left p.head {
+    font-size: 30px;
     text-align: center;
    }
    .mainsec .herosec .right {
