@@ -1175,14 +1175,14 @@ section#get-in {
         height: 50vh;
     }
     .cta {
-        padding: 0 15px;
+        padding: 0 25px;
     }
     .cta h3 {
         font-size: 28px;
     }
     .cta .cta-btn {
         padding: 25px 50px 25px 50px;
-        font-size: 15px;
+        font-size: 20px;
         display: flex;
         justify-content: flex-start;
         align-self: flex-start;
