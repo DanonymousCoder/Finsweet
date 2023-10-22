@@ -720,6 +720,7 @@ section#get-in {
         justify-content: center;
         align-items: center;
         padding: 10px;
+        gap: 0;
     }
     #serious {
         min-height: 145vh;
@@ -736,7 +737,7 @@ section#get-in {
         line-height: 54px;
         width: 300px;
         height: 60px;
-        margin-bottom: 35px;
+        margin-bottom: 40px;
     }
     .hd {
         gap: 0.8rem;
