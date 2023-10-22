@@ -726,4 +726,11 @@ section#get-in {
        .mainsec {
         margin-top: 70px;
        }
+       .mainsec .herosec .left {
+        width: 100%;
+        text-align: center;
+       }
+       .mainsec .herosec .right {
+        width: 100%;
+       }
 }
