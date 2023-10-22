@@ -699,9 +699,13 @@ section#get-in {
        .header nav .links .help .txt {
         display: flex;
         flex-direction: column;
-        gap: 1rem;
+        gap: 3px;
        }
        .header nav .links .help .txt p {
-        font-size: 25px;
+        font-size: 13px;
+        font-weight: 150;
+       }
+       .mainsec {
+        margin-top: 350px;
        }
 }
