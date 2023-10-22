@@ -425,6 +425,9 @@ section#clear {
     padding-bottom: 25px;
     border: 3px dotted red;
 }
+.clear-process .zero .img2 {
+    padding-bottom: 45px;
+}
 
 section.offsec {
     height: 150vh;
