@@ -874,6 +874,10 @@ section#get-in {
         align-self: flex-start;
         padding-left: 5px;
     }
+    .stats {
+        width: 100%;
+        flex-wrap: wrap;
+    }
 }
 
 @media screen and (min-width: 425px) and (max-width: 840px) {
