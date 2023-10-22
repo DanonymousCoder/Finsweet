@@ -660,11 +660,12 @@ section#get-in {
     flex-direction: column;
     column-gap: 2px;
    }
-   .header nav .links .help .txt p {
+   .header nav .links .help .txt .head {
     font-size: 17px;
     font-weight: 150;
    }
    .header nav .links .help .txt .sub {
+    font-size: 17px;
     font-weight: 450;
    }
    .mainsec .herosec {
