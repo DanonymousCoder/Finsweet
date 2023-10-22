@@ -849,6 +849,9 @@ section#get-in {
     .learn-at-serve {
         font-size: 16px;
     }
+    .containert {
+        flex-direction: column;
+    }
 }
 
 @media screen and (min-width: 425px) and (max-width: 840px) {
