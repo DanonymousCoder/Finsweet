@@ -729,6 +729,9 @@ section#get-in {
         height: 50%;
         background-color: #1E1B1B;
     }
+    .serious .left h2 {
+        font-size: 38px;
+    }
     .serious .right {
         width: 100%;
         height: 50%;
