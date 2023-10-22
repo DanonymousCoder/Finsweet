@@ -838,6 +838,9 @@ section#get-in {
     .offers .offs .off-box p.sbx {
         font-size: 18px;
     }
+    .serve-arr {
+        bottom: 0;
+    }
 }
 
 @media screen and (min-width: 425px) and (max-width: 840px) {
