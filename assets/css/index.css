@@ -813,6 +813,9 @@ section#get-in {
         font-size: 16px;
         padding-top: 10px;
     }
+    .clear-process .zero .img {
+        padding-bottom: 25px;
+    }
     .clear-process .zero .img2 {
         padding-bottom: 70px;
     }
