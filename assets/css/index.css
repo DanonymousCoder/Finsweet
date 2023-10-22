@@ -110,7 +110,6 @@ section.head {
 }
 .mainsec {
     width: 100%;
-    min-height: 100vh;
     padding-top: 80px;
     display: flex;
     align-items: center;
