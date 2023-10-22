@@ -664,6 +664,9 @@ section#get-in {
     font-size: 17px;
     font-weight: 150;
    }
+   .header nav .links .help .txt p.sub {
+    font-weight: 250;
+   }
    .mainsec .herosec {
     flex-direction: column;
     background-color: #661CE7;
