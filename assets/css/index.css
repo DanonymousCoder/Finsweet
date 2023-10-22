@@ -634,10 +634,6 @@ section#get-in {
     justify-content: center;
     border: none;
    }
-   .links ul li a  {
-    font-size: 0.000000000005px;
-    font-weight: 10;
-   }
    .header nav .links .help {
     gap: 0.5rem;
     margin-top: 10px;
