@@ -190,6 +190,8 @@ section .herosec .left .down .words p.s-ead {
 .mainsec .herosec .right {
     width: 50%;
     height: 100%;
+}
+.mainsec .herosec .right-img {
     background-image: url("../img/Header\ Image.png");
     background-repeat: no-repeat;
     background-size: cover;
