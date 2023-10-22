@@ -882,7 +882,7 @@ section#get-in {
         width: 100%;
         flex-wrap: wrap;
         gap: 1rem;
-        padding: 0 10px;
+        padding: 0 20px;
         flex-direction: column;
     }
     .stats .prof .hd {
