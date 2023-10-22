@@ -768,10 +768,9 @@ section#get-in {
         height: 67px;
         width: 320px;
     }
-    .serious .right .get-quote form .post-btn {
+    .serious .right .get-quote form a.quote {
+        padding: 10px 20px 10px 20px;
         font-size: 15px;
-        height: 25px;
-        width: 230px;
     }
 }
 
