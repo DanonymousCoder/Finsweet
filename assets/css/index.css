@@ -922,4 +922,7 @@ section#get-in {
         padding: 30px 60px 30px 60px;
         font-size: 25px;
     }
+    .serious .know-arrow p.know {
+        font-size: 28px;
+    }
 }
