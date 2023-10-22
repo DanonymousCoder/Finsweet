@@ -984,12 +984,13 @@ section#get-in {
     align-items: center;
    }
    section .herosec .left .down .words p.ead {
-    font-size: 24px;
+    font-size: 28px;
     padding-top: 0px;
     color: rgb(255, 252, 255)d6;
    }
    section .herosec .left .down .words p.s-ead {
     color: white;
+    font-size: 30px;
    }
    .mainsec .herosec .right {
     width: 100%;
