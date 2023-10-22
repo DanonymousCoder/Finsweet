@@ -689,6 +689,7 @@ section#get-in {
    }
    section .herosec .left button {
     align-self: center;
+    font-size: 15px;
     padding: 10px 20px 10px 20px;
    }
    .mainsec .herosec .right {
