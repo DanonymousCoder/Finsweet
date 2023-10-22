@@ -792,6 +792,11 @@ section#get-in {
         font-size: 24px;
         line-height: 50px;
     }
+    .clear-process .left p.sb {
+        font-size: 12px;
+        width: 100%;
+        line-height: 20px;
+    }
 }
 
 @media screen and (min-width: 425px) and (max-width: 840px) {
