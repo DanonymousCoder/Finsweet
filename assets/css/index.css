@@ -622,6 +622,7 @@ section#get-in {
     .header nav {
     width: 100%;
     flex-direction: column;
+    position: static;
    }
     .logo a.log {
     font-size: 25px;
