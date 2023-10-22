@@ -391,6 +391,7 @@ section#clear {
 }
 .clear-process .zero {
     display: flex;
+    align-items: center;
     gap: 1rem;
 }
 .clear-process .right .zero .txt p.hx {
