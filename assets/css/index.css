@@ -656,9 +656,6 @@ section#get-in {
     font-size: 13px;
     font-weight: 150;
    }
-   .mainsec {
-    margin-top: 70px;
-   }
    .mainsec .herosec {
     flex-direction: column;
     background-color: #661CE7;
@@ -722,9 +719,6 @@ section#get-in {
        .header nav .links .help .txt p {
         font-size: 15px;
         font-weight: 150;
-       }
-       .mainsec {
-        margin-top: 70px;
        }
        .mainsec .herosec .left {
         width: 100%;
