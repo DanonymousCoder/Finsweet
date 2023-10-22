@@ -727,17 +727,17 @@ section#get-in {
     flex-direction: column;
    }
     .logo a.log {
-    font-size: 25px;
+    font-size: 35px;
    }
    .header nav .links {
     flex-direction: column;
     justify-content: center;
     align-items: center;
     text-align: center;
-    margin-top: 20px;
+    margin-top: 30px;
    }
    .header nav .links ul {
-    column-gap: 10px;
+    column-gap: 18px;
     flex-wrap: nowrap;
     align-items: center;
     text-align: center;
@@ -745,7 +745,7 @@ section#get-in {
     border: none;
    }
    .header nav .links ul li a {
-    font-size: 14px;
+    font-size: 28px;
    }
    .header nav .links .help {
     gap: 0.5rem;
