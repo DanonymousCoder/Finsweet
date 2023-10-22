@@ -442,6 +442,8 @@ section.offsec {
     height: 100%;
     padding-left: 60px;
     padding-top: 10px;
+    gap: 0.5rem;
+    border: 3px solid #FF6433;
 }
 .offers p.lt {
     font-family: "Manrope", sans-serif;
