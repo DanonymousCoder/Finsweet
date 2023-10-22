@@ -985,8 +985,10 @@ section#get-in {
    }
    section .herosec .left .down .words p.ead {
     font-size: 28px;
+    font-weight: bolder;
+    color: wheat;
     padding-top: 0px;
-    color: rgb(255, 252, 255)d6;
+    color: rgb(255, 240, 255)d6;
    }
    section .herosec .left .down .words p.s-ead {
     color: white;
