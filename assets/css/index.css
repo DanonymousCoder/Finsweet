@@ -650,10 +650,10 @@ section#get-in {
    .header nav .links .help .txt {
     display: flex;
     flex-direction: column;
-    gap: 0.2rem;
+    column-gap: 2px;
    }
    .header nav .links .help .txt p {
-    font-size: 3.5px;
+    font-size: 10px;
     font-weight: 150;
    }
    .mainsec {
@@ -699,7 +699,7 @@ section#get-in {
        .header nav .links .help .txt {
         display: flex;
         flex-direction: column;
-        gap: 3px;
+        column-gap: 2px;
        }
        .header nav .links .help .txt p {
         font-size: 13px;
