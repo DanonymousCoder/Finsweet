@@ -938,6 +938,9 @@ section#get-in {
     padding: 0px 30px;
     position: absolute;
    }
+   .mainsec .herosec .right .right-img {
+    background-image: url("../Image2.png");
+   }
    .serious {
     display: flex;
     flex-direction: column;
