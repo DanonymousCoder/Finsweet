@@ -738,6 +738,12 @@ section#get-in {
         height: 60px;
         margin-bottom: 30px;
     }
+    .hd {
+        gap: 0.8rem;
+    }
+    .hd img {
+        height: 40px;
+    }
     .serious .left .hd p {
         font-size: 18px;
     }
@@ -747,6 +753,7 @@ section#get-in {
     .serious .left .feature p.sub {
         font-size: 13px;
         height: 35px;
+        padding-left: 54px;
     }
     .serious .right {
         width: 100%;
