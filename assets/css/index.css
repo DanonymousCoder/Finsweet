@@ -1200,10 +1200,10 @@ section#get-in {
         gap: 35px;
     }
     .stats .prof .hd {
-        font-size: 48px;
+        font-size: 56px;
     }
     .stats .prof .sb {
-        font-size: 24px;
+        font-size: 28px;
         width: 100%;
     }
 }
