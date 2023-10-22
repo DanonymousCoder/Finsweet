@@ -1030,14 +1030,16 @@ section#get-in {
         margin-top: 190px;
     }
     .clear-process .zero img {
-        height: 30px;
+        height: 80px;
     }
     .clear-process .right .zero .txt p.hx {
         font-size: 38px;
+        width: 100%;
     }
     .clear-process .right .zero .txt p.bx {
         font-size: 28px;
-        padding-top: 10px;
+        padding-top: 30px;
+        width: 400px;
     }
     .clear-process .zero .img {
         padding-bottom: 25px;
