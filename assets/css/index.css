@@ -728,9 +728,10 @@ section#get-in {
         width: 100%;
         height: 50%;
         background-color: #1E1B1B;
+        justify-content: center;
     }
     .serious .left h2 {
-        font-size: 35px;
+        font-size: 30px;
         text-align: center;
         line-height: 54px;
         width: 300px;
