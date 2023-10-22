@@ -887,7 +887,7 @@ section#get-in {
     }
     .stats .prof1,
     .prof2 {
-        gap: 30px;
+        gap: 35px;
     }
     .stats .prof .hd {
         font-size: 38px;
