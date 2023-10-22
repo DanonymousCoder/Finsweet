@@ -881,7 +881,7 @@ section#get-in {
     gap: 0;
 }
 #serious {
-    min-height: 165vh;
+    min-height: 105vh;
 }
 .serious .left {
     width: 100%;
@@ -918,7 +918,7 @@ section#get-in {
     height: 50%;
 }
 .serious .right h3 {
-    font-size: 30px;
+    font-size: 48px;
     text-align: center;
     line-height: 50px;
     height: 67px;
