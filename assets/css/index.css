@@ -905,6 +905,7 @@ section#get-in {
     }
     .serious .left .feature p.sub {
         font-size: 23px;
+        width: 500px;
         padding-left: 84px;
     }    
     .serious .right {
