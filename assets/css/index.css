@@ -663,10 +663,10 @@ section#get-in {
     flex-direction: column;
     background-color: #661CE7;
    }
-   .left {
+   .mainsec .herosec .left {
     width: 100%;
    }
-   .right {
+   .mainsec .herosec .right {
     width: 100%;
    }
 }
