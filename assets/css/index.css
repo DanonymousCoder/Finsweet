@@ -928,7 +928,7 @@ section#get-in {
         height:25px;
     }
     #clear {
-        min-height: 110vh;
+        min-height: 180vh;
         width: 100%;
     }
     .clear-process {
