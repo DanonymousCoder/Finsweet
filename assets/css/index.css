@@ -914,4 +914,12 @@ section#get-in {
         height: 50%;
         justify-content: center;
     }
+    .serious .right h3 {
+        font-size: 58px;
+        text-align: center;
+    }
+    .serious .right .get-quote form a.quote {
+        padding: 20px 40px 20px 40px;
+        font-size: 25px;
+    }
 }
