@@ -634,7 +634,7 @@ section#get-in {
    }
    .header nav .links ul {
     column-gap: 5px;
-    flex-wrap: wrap;
+    flex-wrap: nowrap;
     justify-content: center;
     border: none;
    }
