@@ -619,10 +619,12 @@ section#get-in {
     .container {
         width: 100vw;
     }
+    .header {
+        position: static;
+    }
     .header nav {
     width: 100%;
     flex-direction: column;
-    position: static;
    }
     .logo a.log {
     font-size: 25px;
