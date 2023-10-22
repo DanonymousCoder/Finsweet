@@ -770,7 +770,8 @@ section#get-in {
     }
     .serious .right .get-quote form .post-btn {
         font-size: 15px;
-        padding: 10px 20px 10px 20px;
+        height: 20px;
+        width: 250px;
     }
 }
 
