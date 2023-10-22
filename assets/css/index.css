@@ -824,8 +824,9 @@ section#get-in {
         width: 100%;
     }
     .offers h2 {
-        font-size: 30; 
+        font-size: 30px; 
         line-height: 40px;
+        width: 100%;
     }
 }
 
