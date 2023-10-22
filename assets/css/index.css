@@ -686,6 +686,7 @@ section#get-in {
     font-size: 25px;
     text-align: center;
     line-height: 50px;
+    margin-bottom: 15px;
    }
    section .herosec .left button {
     align-self: center;
