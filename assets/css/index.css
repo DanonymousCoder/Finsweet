@@ -779,7 +779,7 @@ section#get-in {
         width: 100%;
         height: 100%;
         padding: 10px 10px;
-        gap: 0.5rem;
+        gap: 0.2rem;
     }
     .clear-process .left {
         width: 100%;
@@ -788,7 +788,7 @@ section#get-in {
     .clear-process .right {
         width: 100%;
         height: 50%;
-        gap: 1rem;
+        gap: 0.5rem;
     }
     .clear-process .left h2 {
         font-size: 24px;
