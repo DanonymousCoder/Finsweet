@@ -886,6 +886,12 @@ section#get-in {
         height: 50%;
         justify-content: center;
     }
+    .serious .left h2 {
+        font-size: 58px;
+        text-align: center;
+        margin-bottom: 65px;
+    }
+    
     .serious .right {
         background-color: #661CE7;
         width: 100%;
