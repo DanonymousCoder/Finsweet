@@ -598,7 +598,7 @@ section#get-in {
 }
 .prof1, 
 .prof2 {
-    display: flexa;
+    display: flex;
 }
 .stats .prof .hd {
     font-size: 58px;
