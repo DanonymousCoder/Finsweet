@@ -719,7 +719,7 @@ section#get-in {
         width: 100vw;
     }
     .header {
-        position: static;
+        position: fixed;
     }
     .header nav {
     width: 100%;
